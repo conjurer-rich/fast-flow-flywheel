@@ -9,6 +9,8 @@ sidebar:
   nav: side-navigation
 ---
 
+The Fast Flow Flywheel is an opinionated approach to aligning, unblocking, and accelerating flow. It is not a prescriptive framework. The following engagements are designed to meet you where you are - if you can't find a fit, please [reach out](/contact).
+
 ## 🌀 Kickstart the Flywheel
 
 ![Kickstart the Flywheel](/assets/images/engagements/full-flywheel-rotation.png){: .align-right width="300px"}
@@ -31,6 +33,7 @@ A structured engagement to align on purpose, map the current landscape, surface 
 Organizations looking for a decisive first step toward adaptive structure and faster flow.
 
 **Duration:** 3–4 weeks
+
 **Investment:** From £25k
 
 [Learn More →](/engagements/full-flywheel-rotation)
@@ -55,6 +58,7 @@ Ideal for teams or domains exploring the flywheel approach before scaling up.
 Teams or leaders wanting fast insight with minimal overhead.
 
 **Duration:** 1–2 weeks
+
 **Investment:** From £10k
 
 [Learn More →](/engagements/kickstart-essentials)
@@ -79,6 +83,7 @@ After your first rotation, we support ongoing evolution through quarterly flywhe
 Organizations committed to building a culture of structural learning and responsive flow.
 
 **Format:** Retainer or quarterly cycles
+
 **Investment:** Custom
 
 [Book a Call →](/contact)
