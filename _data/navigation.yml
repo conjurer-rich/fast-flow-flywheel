@@ -1,6 +1,10 @@
 main:
   - title: "Kickstart your flywheel"
     url: /engagements/engagement-overview
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact
 
 side-navigation:
   - title: "Engagement Options"
@@ -12,7 +16,21 @@ side-navigation:
       url: /engagements/full-flywheel-rotation
     - title: "Embedded Flywheel Enablement"
       url: /engagements/embedded-flywheel-enablement
-    
+  - title: "Flywheel Toolkit"
+    url: /toolkit/toolkit-overview
+    children:
+      - title: "🧭 Strategy"
+        url: /toolkit/toolkit-strategy 
+      - title: "🔄 Alignment"
+        url: /toolkit/toolkit-alignment    
+      - title: "📡 Signals"
+        url: /toolkit/toolkit-signals
+      - title: "🎯 Plays"
+        url: /toolkit/toolkit-plays
+      - title: "🛠️ Tactics"
+        url: /toolkit/toolkit-tactics
+      - title: "🔁 Reflection"
+        url: /toolkit/toolkit-reflection  
   - title: "Fast Flow Practices"
     children:
     - title: "1. Understand the current landscape"
