@@ -23,19 +23,24 @@ If your teams are feeling stuck, misaligned, or overburdened—but you’re not 
 
 A hands-on, collaborative engagement (1–2 weeks) that includes:
 
-1. Flow Signals Radar
+### Flow Signals Radar
+
 A structured session to surface and prioritize the signals that suggest flow is breaking down—delivery delays, handoff friction, cognitive overload, unclear ownership, and more.
 
-1. Light-touch Landscape Mapping
+### Light-touch Landscape Mapping
+
 A quick, high-leverage view of how your teams and services are currently organized—and where friction is emerging.
 
-1. One Flow Clinic
+### One Flow Clinic
+
 A facilitated session to explore potential causes and co-create actionable flow decisions with your teams or leadership group.
 
-1. 2–3 Flow Decision Records
+### 2–3 Flow Decision Records
+
 Simple, well-reasoned decisions to improve team boundaries, ownership, or interactions—captured in a format that’s easy to share and reflect on.
 
-1. Draft Flow Roadmap
+### Draft Flow Roadmap
+
 A Now / Next / Later view of how these early decisions fit together—and what to explore next.
 
 ## ✅ Outcomes You Can Expect
@@ -46,9 +51,6 @@ A Now / Next / Later view of how these early decisions fit together—and what t
 - Increased confidence in how to move forward
 
 A sense of momentum—without the overhead of a full transformation
-
-“Kickstart Essentials helped us spot where we were stuck and take action—without waiting for permission to reorg everything.”
-— Product Engineering Lead, SaaS Scale-up
 
 ## 🎯 Who It’s For
 
@@ -71,5 +73,7 @@ Artifacts Delivered: Signals Radar output, Flow Decision Records, Draft Flow Roa
 Not sure if this is the right entry point? Book a quick call and we’ll help you figure it out.
 
 [📅 Book a Discovery Call](/contact)
-[📄 Download the Kickstart Essentials Overview PDF](/assets/pdf/kickstart-essentials-overview.pdf)
-[📬 Contact the Team](/contact)
+
+<!-- [📄 Download the Kickstart Essentials Overview PDF](/assets/pdf/kickstart-essentials-overview.pdf) 
+
+[📬 Contact the Team](/contact) -->

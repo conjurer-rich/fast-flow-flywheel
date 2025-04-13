@@ -96,6 +96,6 @@ If you're ready to evolve continuously—without reorg fatigue—we’re ready t
 
 [📅 Book a Strategy Call](/contact)
 
-[📄 Download the Embedded Enablement Overview PDF](/assets/pdf/embedded-enablement-overview.pdf)
+<!-- [📄 Download the Embedded Enablement Overview PDF](/assets/pdf/embedded-enablement-overview.pdf) 
 
-[📬 Contact the Enabling Team](/contact)
+[📬 Contact the Enabling Team](/contact) -->

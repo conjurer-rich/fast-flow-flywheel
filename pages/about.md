@@ -3,6 +3,9 @@ permalink: /about
 layout: single
 title: "About the Fast Flow Flywheel"
 author_profile: true
+classes: wide
+sidebar:
+  nav: side-navigation
 ---
 
 ## Our mission
@@ -26,7 +29,7 @@ This led us to develop a systematic approach that combines proven methodologies 
 
 #### Creator of User Needs Mapping & Flow Decision Records
 
-Rich Allen is a recognized expert in organizational design and flow optimization. With over 15 years of experience helping organizations improve their value delivery, Rich has developed and refined the Faster Flow Framework through real-world implementation.
+Rich Allen is a recognized expert in organizational design and flow optimization. With over 15 years of experience helping organizations improve their value delivery, Rich has developed and refined the Fast Flow Flywheel through real-world implementation.
 
 **Experience**:
 

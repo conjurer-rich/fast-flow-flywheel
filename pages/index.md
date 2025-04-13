@@ -39,13 +39,16 @@ A lightweight, repeatable process for adapting your structure to match the work.
 
 Practical tools to turn the flywheel:
 
-- **Signals Radar** – Quickly capture where flow is struggling
-- **Flow Clinics** – A structured session to prioritize and shape decisions
-- **Flow Decision Records (FDRs)** – Simple, lightweight documentation of what’s changing and why
-- **Flow Roadmap** – A shared view of what’s happening now, next, and later
-- **Plays & Tactics** – Ready-to-use patterns for removing friction and enabling change
+- **Strategy** – Big-picture strategy focused on aligning with flow-centric goals
+- **Alignment** – Helps assess whether team structure, interactions, and priorities align with strategic goals
+- **Signals** – Helps diagnose flow problems by identifying symptoms or early warnings
+- **Plays** – High-level actions for organizational and team-level improvements
+- **Tactics** – The specific steps to address bottlenecks, adjust structures, or increase alignment and coordination
+- **Reflection** – Helps teams and leaders close the loop and adapt based on outcomes
 
 No complex frameworks. Just smart tools for faster flow.
+
+[Take a look at the toolkit](/toolkit/toolkit-overview)
 
 ## Get Started - Ready to get your flywheel turning?
 

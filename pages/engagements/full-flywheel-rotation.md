@@ -100,4 +100,4 @@ Let’s align, decide, and move forward—together.
 
 [Book a Discovery Call](/discovery-call)
 
-[Download the Engagement Overview PDF](/assets/pdf/kickstart-your-flywheel.pdf)
+<!-- [Download the Engagement Overview PDF](/assets/pdf/kickstart-your-flywheel.pdf) -->

@@ -9,9 +9,7 @@ sidebar:
   nav: side-navigation
 ---
 
-The Flywheel Toolkit is a collection of tools and resources we use to help you implement the Fast Flow Flywheel.
-
-It includes the following key elements:
+The Flywheel Toolkit is a collection of tools and resources we use to help you implement the Fast Flow Flywheel. It includes the following key elements:
 
 ## [🧭 Strategy](/toolkit/toolkit-strategy)
 
