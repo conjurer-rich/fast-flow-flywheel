@@ -15,10 +15,11 @@ header:
 
 ![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg.png){: .align-right width="50%" }
 
+Truly adaptive organizations succeed in a rapidly changing world because they are able to quickly sense, share and solve any problems that arise when their environment changes.
+
 Meet the Fast Flow Flywheel
 
 > A simple, powerful cycle to help you diagnose, decide, and evolve.
-
 
 ## Why the Flywheel?
 
