@@ -37,3 +37,5 @@ The **Strategy** element helps define the big-picture direction that team struct
 - [🎯 Plays](/toolkit/toolkit-plays)
 - [🛠️ Tactics](/toolkit/toolkit-tactics)
 - [🔁 Reflection](/toolkit/toolkit-reflection)
+
+[⬅ Back to toolkit overview](/toolkit/toolkit-overview)

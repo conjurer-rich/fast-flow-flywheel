@@ -31,6 +31,7 @@ sidebar:
 
 ## What next?
 
-- [🎯 Plays](/toolkit/toolkit-plays)
 - [🛠️ Tactics](/toolkit/toolkit-tactics)
 - [🔁 Reflection](/toolkit/toolkit-reflection)
+
+[⬅ Back to toolkit overview](/toolkit/toolkit-overview)

@@ -36,3 +36,5 @@ sidebar:
 - [📡 Signals](/toolkit/toolkit-signals)
 - [🎯 Plays](/toolkit/toolkit-plays)
 - [🛠️ Tactics](/toolkit/toolkit-tactics)
+
+[⬅ Back to toolkit overview](/toolkit/toolkit-overview)
