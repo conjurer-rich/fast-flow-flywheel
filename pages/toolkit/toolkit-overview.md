@@ -1,7 +1,7 @@
 ---
 permalink: /toolkit/toolkit-overview
-title: "The Fast Flow Flywheel Toolkit"
-excerpt: "The Fast Flow Flywheel Toolkit is a collection of tools and resources to help you implement the Fast Flow Flywheel."
+title: "The Fast Flow Toolkit"
+excerpt: "The Fast Flow Toolkit is a collection of tools and resources to help facilitate your Fast Flow Flywheel."
 layout: single
 author_profile: false
 classes: wide
@@ -9,7 +9,7 @@ sidebar:
   nav: side-navigation
 ---
 
-The Flywheel Toolkit is a collection of tools and resources we use to help you implement the Fast Flow Flywheel. It includes the following key elements:
+The Fast Flow Toolkit is a collection of tools and resources to help facilitate your Fast Flow Flywheel. It includes the following key elements:
 
 ## [🧭 Strategy](/toolkit/toolkit-strategy)
 

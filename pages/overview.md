@@ -84,10 +84,14 @@ The Fast Flow Flywheel gives your organization:
 - A living Flow Roadmap to track progress and keep momentum
 - A language and process for making better org design decisions—together
 
-Ready to Start Spinning the Flywheel?
+## Want to take a closer look?
+
+[Learn more about a Fast Flow Flywheel Rotation](/how-it-works/rotation-overview)
+
+## Ready to Start Spinning the Flywheel?
 
 Whether you're navigating a platform redesign, team topologies adoption, or broader org transformation, the Flywheel helps you build flow into your operating model—one signal, one decision at a time.
 
 [Book a Discovery Call](/contact)
 
-[Get your Flywheel Spinning](/engagements/kickstart-essentials)
+Or learn more about how to [Get your Flywheel Spinning](/engagements/kickstart-essentials)

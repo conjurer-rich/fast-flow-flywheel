@@ -1,7 +1,7 @@
 ---
 
 permalink: /toolkit/toolkit-alignment
-title: "The Fast Flow Flywheel Toolkit - Alignment"
+title: "The Fast Flow Toolkit - Alignment"
 excerpt: "The **Alignment** element helps ensure that **teams, services, structures, and decisions** remain clearly connected to the **organization’s strategic goals**, user needs, and flow outcomes."
 layout: single
 author_profile: false

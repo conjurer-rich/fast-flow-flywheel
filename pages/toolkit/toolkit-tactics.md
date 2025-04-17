@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-tactics
-title: "The Fast Flow Flywheel Toolkit - Tactics"
+title: "The Fast Flow Toolkit - Tactics"
 excerpt: "Tactical interventions to optimize flow, autonomy, and decision-making in specific areas. The specific steps to address bottlenecks, adjust structures, or increase alignment and coordination."
 layout: single
 author_profile: false

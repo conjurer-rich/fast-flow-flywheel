@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-reflection
-title: "🔄 The Fast Flow Flywheel Toolkit - Reflection"
+title: "🔄 The Fast Flow Toolkit - Reflection"
 excerpt: "Review progress and assess whether the changes made have resulted in improved flow and alignment. Questions or prompts for reflection, helping users assess how the flow is evolving and where they may need to double down on efforts."
 layout: single
 author_profile: false

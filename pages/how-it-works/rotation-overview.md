@@ -8,6 +8,8 @@ sidebar:
   nav: side-navigation
 ---
 
+![Flywheel Rotation](/assets/images/flywheel-rotation.png){: .align-center width="400px"}
+
 A Flywheel Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
 
 We help you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
@@ -39,6 +41,8 @@ We guide your team through five connected steps:
 **4. Reflect** Hold a short review—what worked, what didn’t, and what we learned.
 
 **5. Align** Feed the learning into your Flow Roadmap so future changes are better informed.
+
+**6. Amplify** Celebrate progress. Spread what works. Recognize wins, share effective practices, and build momentum.
 
 ## What you get from one rotation
 

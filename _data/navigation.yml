@@ -14,7 +14,7 @@ side-navigation:
   - title: "Overview"
     url: /overview
   - title: "How it works (The Process)"
-    url: /rotation-overview
+    url: /how-it-works/rotation-overview
     children:
     - title: "1. Understand the current landscape"
       url: /how-it-works/1-understand-current-landscape

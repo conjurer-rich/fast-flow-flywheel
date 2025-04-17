@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-strategy
-title: "The Fast Flow Flywheel Toolkit - Strategy"
+title: "The Fast Flow Toolkit - Strategy"
 excerpt: "The **Strategy** element helps define the big-picture direction that team structures, capabilities, and flow decisions should serve. It anchors the system in **outcomes that matter**, so that tactical and structural choices stay grounded in purpose."
 layout: single
 author_profile: false

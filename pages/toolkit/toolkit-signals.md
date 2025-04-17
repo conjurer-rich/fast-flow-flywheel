@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-signals
-title: "The Fast Flow Flywheel Toolkit - Signals"
+title: "The Fast Flow Toolkit - Signals"
 excerpt: "Identify key indicators or challenges that highlight flow issues or bottlenecks in the organization. Helps diagnose flow problems by identifying symptoms or early warnings."
 layout: single
 author_profile: false

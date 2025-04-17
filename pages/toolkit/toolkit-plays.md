@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-plays
-title: "The Fast Flow Flywheel Toolkit - Plays"
+title: "The Fast Flow Toolkit - Plays"
 excerpt: "Strategic actions to address flow blockers and improve alignment or efficiency. High-level actions for organizational and team-level improvements."
 layout: single
 author_profile: false
