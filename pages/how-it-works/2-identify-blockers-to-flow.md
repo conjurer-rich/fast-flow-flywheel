@@ -14,7 +14,7 @@ classes: wide
 
 After understanding your current landscape, the next step is to delve deeper into what’s hindering fast, aligned delivery. Blockers to flow often hide in plain sight—buried in dependencies, outdated assumptions, and invisible delays.
 
-The Fast Flow Flywheel helps you surface these hidden constraints quickly and collaboratively, enabling your organization to take practical steps forward with confidence.
+A Flywheel Rotation helps you surface these hidden constraints quickly and collaboratively, enabling your organization to take practical steps forward with confidence.
 
 ### Challenge constraints with a different mindset
 

@@ -14,7 +14,7 @@ classes: wide
 
 With strategic alignment, validated boundaries, and feasible futures in view, the final step is to bring it all together in a practical, navigable plan.
 
-The **Flow Roadmap** is the connective tissue between vision and execution. It helps your organization take an iterative, low-risk approach to structural evolution—while staying focused on improving flow.
+A **Flow Roadmap** is the connective tissue between vision and execution. It helps your organization take an iterative, low-risk approach to structural evolution—while staying focused on improving flow.
 
 ### Capture key decisions with Flow Decision Records
 

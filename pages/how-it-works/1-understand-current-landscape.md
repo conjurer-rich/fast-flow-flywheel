@@ -14,7 +14,7 @@ classes: wide
 
 Before any meaningful organizational change can begin, it’s critical to develop a shared understanding of where you are today—and why change is needed in the first place.
 
-The Fast Flow Flywheel begins by helping teams and leaders step back and see the bigger picture. We combine strategic clarity with operational visibility to ensure that any changes to team structure, responsibilities, or service boundaries are grounded in your real-world context and business goals.
+A Flywheel Rotation begins by helping teams and leaders step back and see the bigger picture. We combine strategic clarity with operational visibility to ensure that any changes to team structure, responsibilities, or service boundaries are grounded in your real-world context and business goals.
 
 ### Clarify strategic intent with outcome maps
 

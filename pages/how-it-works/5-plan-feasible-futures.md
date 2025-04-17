@@ -14,7 +14,7 @@ classes: wide
 
 Once new boundaries have been proposed and validated, the question becomes: what does a better future look like, and how do we get there without disruption?
 
-The Fast Flow Flywheel helps organizations evaluate **feasible futures**—structural options that support improved value flow while remaining grounded in current capabilities, constraints, and strategic goals.
+A Flywheel Rotation helps organizations evaluate **feasible futures**—structural options that support improved value flow while remaining grounded in current capabilities, constraints, and strategic goals.
 
 ### Start with strategic clarity
 

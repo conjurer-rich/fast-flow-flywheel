@@ -1,4 +1,8 @@
 main:
+  - title: "Overview"
+    url: /overview
+  - title: "How it works"
+    url: /how-it-works/rotation-overview
   - title: "Kickstart your flywheel"
     url: /engagements/engagement-overview
   - title: "About"
@@ -7,16 +11,24 @@ main:
     url: /contact
 
 side-navigation:
-  - title: "Engagement Options"
-    url: /engagements/engagement-overview
+  - title: "Overview"
+    url: /overview
+  - title: "How it works (The Process)"
+    url: /rotation-overview
     children:
-    - title: "Kickstart Essentials"
-      url: /engagements/kickstart-essentials
-    - title: "Full Flywheel Rotation"
-      url: /engagements/full-flywheel-rotation
-    - title: "Embedded Flywheel Enablement"
-      url: /engagements/embedded-flywheel-enablement
-  - title: "Flywheel Toolkit"
+    - title: "1. Understand the current landscape"
+      url: /how-it-works/1-understand-current-landscape
+    - title: "2. Identify blockers to flow"
+      url: /how-it-works/2-identify-blockers-to-flow
+    - title: "3. Find new team boundaries"
+      url: /how-it-works/3-find-new-team-boundaries
+    - title: "4. Validate potential team boundaries"
+      url: /how-it-works/4-validate-potential-team-boundaries
+    - title: "5. Plan feasible futures"
+      url: /how-it-works/5-plan-feasible-futures
+    - title: 6. Curate a flow roadmap
+      url: /how-it-works/6-curate-a-flow-roadmap
+  - title: "Fast Flow Toolkit"
     url: /toolkit/toolkit-overview
     children:
       - title: "🧭 Strategy"
@@ -31,17 +43,12 @@ side-navigation:
         url: /toolkit/toolkit-tactics
       - title: "🔁 Reflection"
         url: /toolkit/toolkit-reflection  
-  - title: "Fast Flow Practices"
+  - title: "Engagement Options"
+    url: /engagements/engagement-overview
     children:
-    - title: "1. Understand the current landscape"
-      url: /how-it-works/1-understand-current-landscape
-    - title: "2. Identify blockers to flow"
-      url: /how-it-works/2-identify-blockers-to-flow
-    - title: "3. Find new team boundaries"
-      url: /how-it-works/3-find-new-team-boundaries
-    - title: "4. Validate potential team boundaries"
-      url: /how-it-works/4-validate-potential-team-boundaries
-    - title: "5. Plan feasible futures"
-      url: /how-it-works/5-plan-feasible-futures
-    - title: 6. Curate a flow roadmap
-      url: /how-it-works/6-curate-a-flow-roadmap
+    - title: "Kickstart Essentials"
+      url: /engagements/kickstart-essentials
+    - title: "Full Flywheel Rotation"
+      url: /engagements/full-flywheel-rotation
+    - title: "Embedded Flywheel Enablement"
+      url: /engagements/embedded-flywheel-enablement

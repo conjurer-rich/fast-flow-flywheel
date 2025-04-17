@@ -14,7 +14,7 @@ classes: wide
 
 Once you've identified where flow is blocked, the next challenge is deciding how to evolve your organization to support faster, smoother delivery. This means finding and validating team and service boundaries that align with real user needs—not legacy structures or internal silos.
 
-The Fast Flow Flywheel provides a collaborative, systems-aware approach to discovering and testing better boundaries, grounded in how value actually flows through your organization.
+A Flywheel Rotation provides a collaborative, systems-aware approach to discovering and testing better boundaries, grounded in how value actually flows through your organization.
 
 ### Discover new team boundaries with proven techniques
 
