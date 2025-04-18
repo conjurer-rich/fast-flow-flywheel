@@ -3,7 +3,7 @@ permalink: /
 layout: splash
 title: "Accelerate your organization’s flow of value"
 excerpt: > 
-  Gain **Clarity**. Build **Confidence**. Achieve **Continuous Alignment**.
+  Gain **Clarity**. Build **Confidence**. Cultivate **Evolution**.
 
   Your system for accelerating flow—one decision at a time.
 header:
