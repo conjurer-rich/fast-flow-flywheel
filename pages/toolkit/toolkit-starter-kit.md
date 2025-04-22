@@ -28,13 +28,11 @@ If you've ever sensed friction and wondered, “How do we actually fix this?”�
 
 ## What’s Inside the Kit?
 
-✅ **Flow Signal Cheatsheet:** A quick-start guide to spotting common flow issues—across teams, services, and leadership.
+✅ **5 Flow Signals:** A quick-start guide to spotting common flow issues—across teams, services, and leadership.
 
 ✅ **Flow Decision Template:** A lightweight template to help you frame, document, and socialize structural decisions using the Fast Flow approach.
 
-✅ **Top 5 Fast Flow Plays:** Battle-tested responses to common signals—ready to try with your team or co-facilitators.
-
-✅ **User Needs Mapping Primer:** A visual overview of the UNM technique and a simple exercise to uncover misaligned team boundaries.
+✅ **3 Fast Flow Plays:** Battle-tested responses to common signals—ready to try with your team or co-facilitators.
 
 ✅ **Intro to the Fast Flow Flywheel™️:** Understand how the Flywheel connects signals, plays, and decisions into repeatable momentum.
 
@@ -85,4 +83,4 @@ Once you've explored the kit, we’ll guide you to:
 - Optional coaching or walkthrough sessions
 - Community learning opportunities
 
-The Fast Flow Facilitator Platform is here to grow with you—starting now.
+Let's get your Fast Flow Flywheel™️ turning.
