@@ -11,7 +11,7 @@ The Fast Flow Flywheel™️ is for anyone who wants to improve their flow.
 
 ## Fast Flow for Strategic Leaders
 
-Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel™️ gives you a practical system to align structure with strategy,so your organization can move faster, with less friction.
+Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel™️ gives you a practical system to align structure with strategy, so your organization can move faster, with less friction.
 
 ## You’re accountable for…
 
@@ -28,7 +28,7 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 **Make smarter org decisions** - Use Flow Decision Records to drive structural decisions with clear rationale and shared context.
 
-**Align teams with architecture and outcomes** - Organize around real value streams, capabilities, and user needs,not functional silos or legacy structures.
+**Align teams with architecture and outcomes** - Organize around real value streams, capabilities, and user needs, not functional silos or legacy structures.
 
 ---
 
@@ -42,7 +42,7 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 ## Fast Flow for Product Leaders
 
-Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel™️ helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker,for product outcomes.
+Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel™️ helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker, for product outcomes.
 
 ## You’re trying to…
 
@@ -81,7 +81,7 @@ or
 
 ## Fast Flow for Org Designers and Transformation Leaders
 
-When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel™️ gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose,not chaos.
+When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel™️ gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose, not chaos.
 
 ### You’re trying to…
 
@@ -90,7 +90,7 @@ When your org is built for yesterday, even small changes feel hard. The Fast Flo
 - Design structures that adapt over time
 - Avoid yet another failed reorg
 
-But without a clear picture of how value flows,or where it’s blocked,it’s impossible to lead change with confidence.
+But without a clear picture of how value flows,or where it’s blocked, it’s impossible to lead change with confidence.
 
 ### How the Fast Flow Platform helps
 
@@ -135,7 +135,7 @@ But without a clear picture of your users and their needs, it’s easy to fall i
 
 **Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
 
-**Spot flow friction before it escalates** - Identify where your platform is helping,or unintentionally hindering,team delivery.
+**Spot flow friction before it escalates** - Identify where your platform is helping, or unintentionally hindering,team delivery.
 
 **Make confident investment decisions** - Use Flow Decision Records to guide platform evolution, prioritize capabilities, and justify trade-offs.
 
@@ -159,7 +159,7 @@ or
 
 ## Fast Flow for Coaches and Consultants
 
-If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel™️ equips you to surface organizational friction, guide better decisions, and help teams,and leaders,move forward with clarity.
+If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel™️ equips you to surface organizational friction, guide better decisions, and help teams,and leaders, move forward with clarity.
 
 ### You’re trying to…
 
@@ -176,15 +176,15 @@ But most coaching tools stop at the team level,leaving systemic issues invisible
 
 **Facilitate better conversations** - Bring people together in Flow Clinics to co-create structural decisions that stick.
 
-**Expand your toolkit** - Move beyond ceremonies with practices like User Needs Mapping and Flow Decision Records,practical, visual, and participatory.
+**Expand your toolkit** - Move beyond ceremonies with practices like User Needs Mapping and Flow Decision Records, practical, visual, and participatory.
 
 ---
 
 ### What You Can Use Today
 
-- Flow Signals Radar – to assess systemic friction points
-- User Needs Mapping – to realign teams around purpose
-- Flow Clinics – to spark collaborative structural change
+- **Flow Signals Radar** – to assess systemic friction points
+- **User Needs Mapping** – to realign teams around purpose
+- **Flow Clinics** – to spark collaborative structural change
 
 ---
 
