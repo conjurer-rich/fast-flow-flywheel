@@ -15,9 +15,9 @@ A lightweight first turn of the Fast Flow Flywheel
 
 ## Start where you are. Move what matters
 
-Kickstart Essentials is a time-boxed engagement designed to help you explore flow problems, make progress on key decisions, and test the value of the Fast Flow Flywheel—without a large upfront commitment.
+Kickstart Essentials is a time-boxed engagement designed to help you explore flow problems, make progress on key decisions, and test the value of the Fast Flow Flywheel,without a large upfront commitment.
 
-If your teams are feeling stuck, misaligned, or overburdened—but you’re not sure where to start—Kickstart Essentials gives you a fast, focused way to uncover what's slowing you down and begin evolving with confidence.
+If your teams are feeling stuck, misaligned, or overburdened,but you’re not sure where to start,Kickstart Essentials gives you a fast, focused way to uncover what's slowing you down and begin evolving with confidence.
 
 ## 🌀 What You’ll Get
 
@@ -25,11 +25,11 @@ A hands-on, collaborative engagement (1–2 weeks) that includes:
 
 ### Flow Signals Radar
 
-A structured session to surface and prioritize the signals that suggest flow is breaking down—delivery delays, handoff friction, cognitive overload, unclear ownership, and more.
+A structured session to surface and prioritize the signals that suggest flow is breaking down,delivery delays, handoff friction, cognitive overload, unclear ownership, and more.
 
 ### Light-touch Landscape Mapping
 
-A quick, high-leverage view of how your teams and services are currently organized—and where friction is emerging.
+A quick, high-leverage view of how your teams and services are currently organized,and where friction is emerging.
 
 ### One Flow Clinic
 
@@ -37,11 +37,11 @@ A facilitated session to explore potential causes and co-create actionable flow 
 
 ### 2–3 Flow Decision Records
 
-Simple, well-reasoned decisions to improve team boundaries, ownership, or interactions—captured in a format that’s easy to share and reflect on.
+Simple, well-reasoned decisions to improve team boundaries, ownership, or interactions,captured in a format that’s easy to share and reflect on.
 
 ### Draft Flow Roadmap
 
-A Now / Next / Later view of how these early decisions fit together—and what to explore next.
+A Now / Next / Later view of how these early decisions fit together,and what to explore next.
 
 ## ✅ Outcomes You Can Expect
 
@@ -50,7 +50,7 @@ A Now / Next / Later view of how these early decisions fit together—and what t
 - Real decisions made with visible rationale
 - Increased confidence in how to move forward
 
-A sense of momentum—without the overhead of a full transformation
+A sense of momentum,without the overhead of a full transformation
 
 ## 🎯 Who It’s For
 

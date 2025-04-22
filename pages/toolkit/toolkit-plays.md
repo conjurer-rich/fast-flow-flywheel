@@ -24,10 +24,10 @@ sidebar:
 
 ## 🧩 Core Components
 
-- **📡 Triggering Signals** — What symptoms this play responds to  
-- **🧠 Flow Decision Focus** — The strategic question being addressed  
-- **🛠️ Tactics to Try** — Options for evolving the structure or interaction model  
-- **✅ Expected Outcomes** — What improvement looks like
+- **📡 Triggering Signals** - What symptoms this play responds to
+- **🧠 Flow Decision Focus** - The strategic question being addressed
+- **🛠️ Tactics to Try** - Options for evolving the structure or interaction model
+- **✅ Expected Outcomes** - What improvement looks like
 
 ## What next?
 

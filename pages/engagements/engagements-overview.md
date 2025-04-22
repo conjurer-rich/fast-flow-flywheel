@@ -15,7 +15,7 @@ The Fast Flow Flywheel is an opinionated approach to aligning, unblocking, and a
 
 ![Kickstart the Flywheel](/assets/images/engagements/full-flywheel-rotation.png){: .align-right width="300px"}
 
-The first full rotation of the flywheel—high-impact, high-clarity.
+The first full rotation of the flywheel,high-impact, high-clarity.
 
 A structured engagement to align on purpose, map the current landscape, surface flow blockers, and produce actionable decisions to move forward.
 

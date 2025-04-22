@@ -24,10 +24,10 @@ sidebar:
 
 ## 🧩 Core Components
 
-- **📡 Triggering Signals** — What condition this tactic addresses  
-- **❓ Trigger Question** — How to know when this tactic is useful  
-- **🎯 Action** — What to actually do  
-- **✅ When to Use / Avoid** — Guidance for safe, effective application
+- **📡 Triggering Signals** , What condition this tactic addresses  
+- **❓ Trigger Question** , How to know when this tactic is useful  
+- **🎯 Action** , What to actually do  
+- **✅ When to Use / Avoid** , Guidance for safe, effective application
 
 ## What next?
 

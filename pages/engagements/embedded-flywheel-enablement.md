@@ -19,14 +19,14 @@ You’ve taken the first step. You’ve made flow decisions, visualized your roa
 
 Now it’s time to embed the rhythm.
 
-Embedded Enablement helps your organization build the capability to keep the flywheel turning—quarter after quarter, decision after decision.
+Embedded Enablement helps your organization build the capability to keep the flywheel turning,quarter after quarter, decision after decision.
 
 This is where faster flow becomes a habit, not a one-time event.
 
 ## 🚀 Why Embedded Enablement?
 
 Most organizations don’t fail because they can’t spot problems.
-They fail because they don’t know how to act on them—consistently and collaboratively.
+They fail because they don’t know how to act on them,consistently and collaboratively.
 
 Embedded Enablement gives you:
 
@@ -36,7 +36,7 @@ Ongoing guidance to refine boundaries, ownership, and interactions
 
 Coaching to help internal facilitators and leaders take the wheel
 
-A culture of structural learning—not structural inertia
+A culture of structural learning,not structural inertia
 
 ## 🔄 What’s Included
 
@@ -73,7 +73,7 @@ A flexible, quarterly rhythm of support tailored to your teams and context. Typi
 ## 📊 What You’ll See Over Time
 
 - Reduced delivery friction and fewer dropped handoffs
-- Teams making decisions faster—with less escalation
+- Teams making decisions faster,with less escalation
 - Improved clarity of ownership and purpose across services
 - Leaders spending less time firefighting, more time guiding
 
@@ -92,7 +92,7 @@ A flexible, quarterly rhythm of support tailored to your teams and context. Typi
 
 ## ✅ Let’s Embed the Rhythm
 
-If you're ready to evolve continuously—without reorg fatigue—we’re ready to help.
+If you're ready to evolve continuously,without reorg fatigue,we’re ready to help.
 
 [📅 Book a Strategy Call](/contact)
 

@@ -24,10 +24,10 @@ sidebar:
 
 ## 🧩 Core Components
 
-- **🔍 Reflection Prompts** — Lightweight questions to guide learning  
-- **📅 Decision Reviews** — Checkpoints for evaluating impact  
-- **📈 Metric Reviews** — Using flow metrics to inform decisions  
-- **🔄 Continuous Feedback** — Making reflection a regular rhythm
+- **🔍 Reflection Prompts** , Lightweight questions to guide learning  
+- **📅 Decision Reviews** , Checkpoints for evaluating impact  
+- **📈 Metric Reviews** , Using flow metrics to inform decisions  
+- **🔄 Continuous Feedback** , Making reflection a regular rhythm
 
 ## What next?
 

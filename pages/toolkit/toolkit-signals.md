@@ -9,7 +9,7 @@ sidebar:
   nav: side-navigation
 ---
 
-**Signals** are the early warning signs of friction, misalignment, or structural drag. They help teams and leaders **see where flow is breaking down** — before symptoms become crises.
+**Signals** are the early warning signs of friction, misalignment, or structural drag. They help teams and leaders **see where flow is breaking down** , before symptoms become crises.
 
 ---
 
@@ -24,9 +24,9 @@ sidebar:
 
 ## 🧩 Core Components
 
-- **🧭 Flow Signals** — Common patterns of delivery friction or misalignment  
-- **📋 Trigger Questions** — Help clarify whether a signal is present  
-- **📌 Signal > Play > Tactic Mapping** — Helps teams take meaningful action
+- **🧭 Flow Signals** - Common patterns of delivery friction or misalignment
+- **📋 Trigger Questions** - Help clarify whether a signal is present
+- **📌 Signal > Play > Tactic Mapping** - Helps teams take meaningful action
 
 ## What next?
 

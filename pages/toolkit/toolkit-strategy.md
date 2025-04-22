@@ -16,7 +16,7 @@ The **Strategy** element helps define the big-picture direction that team struct
 ## ✅ Strategy Enables You To
 
 - Align team and service design with user needs and organizational goals  
-- Define what “better flow” looks like — and where to invest  
+- Define what “better flow” looks like , and where to invest  
 - Guide change through principles, objectives, heuristics, and strategic bets  
 - Create coherence across teams and initiatives  
 
@@ -24,11 +24,11 @@ The **Strategy** element helps define the big-picture direction that team struct
 
 ## 🧩 Core Components
 
-- **💡 Flow Objectives** — What outcomes are we optimizing for?  
-- **📌 Strategy Principles** — How do we think about change and improvement?  
-- **🧠 Flow Heuristics** — Simple, adaptive rules for structural decisions  
-- **💸 Investment Areas** — Where do we need to grow or focus effort?  
-- **🎯 Strategic Bets** — High-level shifts that guide structural evolution
+- **💡 Flow Objectives** , What outcomes are we optimizing for?  
+- **📌 Strategy Principles** , How do we think about change and improvement?  
+- **🧠 Flow Heuristics** , Simple, adaptive rules for structural decisions  
+- **💸 Investment Areas** , Where do we need to grow or focus effort?  
+- **🎯 Strategic Bets** , High-level shifts that guide structural evolution
 
 ## What next?
 

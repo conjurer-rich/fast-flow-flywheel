@@ -3,9 +3,9 @@ permalink: /
 layout: splash
 title: "Accelerate your organization’s flow of value"
 excerpt: > 
-  Gain **Clarity**. Build **Confidence**. Cultivate **Evolution**.
-
-  Your system for accelerating flow—one decision at a time.
+  Gain **Clarity**. Build **Confidence**. Cultivate **Evolution**.  
+  
+  Your system for accelerating flow, one decision at a time.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
@@ -42,7 +42,7 @@ Meet the Fast Flow Flywheel
 Most teams don’t need a big reorg.
 They need a way to spot what’s not working, decide what to adjust, and move forward together.
 
-The Fast Flow Flywheel gives you a practical loop for evolving how teams and services are structured—based on real signals, not guesswork.
+The Fast Flow Flywheel gives you a practical loop for evolving how teams and services are structured, based on real signals, not guesswork.
 
 > It’s not a framework. It’s a rhythm. A way to make progress visible, safe, and aligned.
 
@@ -63,18 +63,31 @@ The Faster Flow Flywheel was explicitly built to help you:
 - **Align for success**: Confidently validate and implement structural changes, ensuring teams are naturally aligned with delivering value.
 - **Plan with clarity**: Develop feasible, clearly defined future states and roadmaps that align with your strategic vision.
 
-## Real outcomes, proven results
+![Fast Flow Flywheel Starter Kit](/assets/images/fast-flow-flywheel-star.png){: .align-right width="400px" }
 
-By building clarity, confidence, and continuous alignment into every step of structural evolution, the Faster Flow Flywheel delivers tangible results:
+## The engine that turns signals into momentum
 
-- Shorter lead times and faster project delivery
-- Improved team autonomy and reduced cognitive load
-- Increased clarity around roles and responsibilities
-- Higher stakeholder satisfaction and confidence in organizational decisions
+The Flywheel is the core mechanism facilitators use to move from sensing to doing, turning signals into decisions, and decisions into flow.
 
-## Want to learn more?
+It connects:
 
-Take a look at an [Overview of the Faster Flow Flywheel](/overview) for insights into the core principles, who it is for, key benefits, and why it works.
+- Flow Objectives → clear direction
+- Flow Signals → friction in the system
+- Fast Flow Plays → repeatable responses
+- Flow Decisions → decentralized alignment
+- Flow Roadmaps → visible progress
+
+[Learn how the Flywheel works →](/overview)
+
+## Who is this for?
+
+The Fast Flow Platform is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
+
+- [Strategic Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-strategic-leaders)
+- [Product Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-product-leaders)
+- [Org Designers and Transformation Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-org-designers-and-transformation-leaders)
+- [Platform Team Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-platform-team-leaders)
+- [Agile Coaches and Facilitators](/who-its-for/whos-it-for-overview#fast-flow-for-agile-coaches-and-facilitators)
 
 ## Take the next step toward better flow
 

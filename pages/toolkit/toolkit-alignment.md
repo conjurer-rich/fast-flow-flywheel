@@ -12,7 +12,7 @@ sidebar:
 
 The **Alignment** element helps ensure that **teams, services, structures, and decisions** remain clearly connected to the **organization’s strategic goals**, user needs, and flow outcomes.
 
-While **Strategy** sets direction and **Flow Decisions** drive change, **Alignment keeps everything coordinated in motion** — enabling fast flow not just once, but continuously.
+While **Strategy** sets direction and **Flow Decisions** drive change, **Alignment keeps everything coordinated in motion** , enabling fast flow not just once, but continuously.
 
 ## ✅ Alignment Enables You To
 
@@ -36,7 +36,7 @@ While **Strategy** sets direction and **Flow Decisions** drive change, **Alignme
 
 ---
 
-Together, these help teams **navigate complexity**, **respond to change**, and **make flow-conscious decisions** over time — without relying on big-bang reorgs or top-down planning.
+Together, these help teams **navigate complexity**, **respond to change**, and **make flow-conscious decisions** over time , without relying on big-bang reorgs or top-down planning.
 
 ## What next?
 

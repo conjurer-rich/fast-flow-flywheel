@@ -13,36 +13,37 @@ main:
 side-navigation:
   - title: "Overview"
     url: /overview
-  - title: "How it works (The Process)"
+  - title: "A Flywheel Rotation (The Process)"
     url: /how-it-works/rotation-overview
     children:
-    - title: "1. Understand the current landscape"
-      url: /how-it-works/1-understand-current-landscape
-    - title: "2. Identify blockers to flow"
-      url: /how-it-works/2-identify-blockers-to-flow
-    - title: "3. Find new team boundaries"
-      url: /how-it-works/3-find-new-team-boundaries
-    - title: "4. Validate potential team boundaries"
-      url: /how-it-works/4-validate-potential-team-boundaries
-    - title: "5. Plan feasible futures"
-      url: /how-it-works/5-plan-feasible-futures
-    - title: 6. Curate a flow roadmap
-      url: /how-it-works/6-curate-a-flow-roadmap
-  - title: "Fast Flow Toolkit"
-    url: /toolkit/toolkit-overview
+    - title: "Detect: Spot the Signals"
+      url: /how-it-works/1-detect
+    - title: "Decide: Make Flow Decisions"
+      url: /how-it-works/2-decide
+    - title: "Act: Apply and Test"
+      url: /how-it-works/3-act
+    - title: "Reflect: Learn and Adapt"
+      url: /how-it-works/4-reflect
+    - title: "Align: Connect to Strategy"
+      url: /how-it-works/5-align
+    - title: "Amplify: Enable and Empower"
+      url: /how-it-works/6-amplify
+  - title: "Whos it for?"
+    url: /who-its-for/whos-it-for-overview
+  - title: "Fast Flow Tools & Resources"
     children:
-      - title: "🧭 Strategy"
-        url: /toolkit/toolkit-strategy 
-      - title: "🔄 Alignment"
-        url: /toolkit/toolkit-alignment    
-      - title: "📡 Signals"
-        url: /toolkit/toolkit-signals
-      - title: "🎯 Plays"
-        url: /toolkit/toolkit-plays
-      - title: "🛠️ Tactics"
-        url: /toolkit/toolkit-tactics
-      - title: "🔁 Reflection"
-        url: /toolkit/toolkit-reflection  
+      - title: "Flow Signals Radar"
+        url: /toolkit/toolkit-flow-signals-radar
+      - title: "Flow Clinics"
+        url: /toolkit/toolkit-flow-clinics
+      - title: "Flow Roadmap"
+        url: /toolkit/toolkit-flow-roadmap
+      - title: "Flow Playbook"
+        url: /toolkit/toolkit-flow-playbook
+      - title: "Fast Flow Starter Kit"
+        url: /toolkit/toolkit-starter-kit
+      - title: "Fast Flow Toolkit"
+        url: /toolkit/toolkit-overview
   - title: "Engagement Options"
     url: /engagements/engagement-overview
     children:

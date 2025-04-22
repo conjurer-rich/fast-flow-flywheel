@@ -56,7 +56,7 @@ A focused engagement to align, unblock, and activate your path to faster flow.
 
 ![Flywheel Kickstarter](/assets/images/flywheel-kickstarter.png){: .align-center width="30%"}
 
-A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel—from sensing to decision-making to strategic alignment and roadmap creation.
+A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel,from sensing to decision-making to strategic alignment and roadmap creation.
 
 This is not a one-time fix. It’s the first turn in a repeatable, value-driving rhythm.
 
@@ -68,7 +68,7 @@ Over the course of 3–6 weeks (or adapted to fit your pace), we’ll co-create 
 
 ## Why This First Turn Matters
 
-The first rotation of the flywheel sets the direction, builds trust in the process, and creates visible momentum. It often requires more investment—strategically and financially—than future cycles. But it lays the foundation for:
+The first rotation of the flywheel sets the direction, builds trust in the process, and creates visible momentum. It often requires more investment,strategically and financially,than future cycles. But it lays the foundation for:
 
 - Faster, safer decisions in future rotations
 - Cross-team alignment and shared language
@@ -76,7 +76,7 @@ The first rotation of the flywheel sets the direction, builds trust in the proce
 
 ## What You’ll Leave With
 
-- A shared understanding of where you are—and where you want to go
+- A shared understanding of where you are,and where you want to go
 - Visual maps of current boundaries, flow blockers, and user needs
 - A set of validated Flow Decisions with rationale and next steps
 - A Flow Roadmap to guide future evolution
@@ -96,7 +96,7 @@ Our Fast Flow Enabling Team can help you:
 
 ## Ready to Kickstart the Flywheel?
 
-Let’s align, decide, and move forward—together.
+Let’s align, decide, and move forward,together.
 
 [Book a Discovery Call](/discovery-call)
 
