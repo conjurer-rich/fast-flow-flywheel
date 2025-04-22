@@ -30,7 +30,7 @@ We use **Flow-Aware Design** to ask: _Are we organized to achieve our outcomes?_
 - **Flow Investment Areas** – where we need to invest to achieve our desiredoutcomes
 - **Flow Strategic Bets** – high-level shoifts that guid structural evolution
 
-Alignment isn’t static,it evolves as strategy shifts.
+Alignment isn’t static, it evolves as strategy shifts.
 
 ---
 

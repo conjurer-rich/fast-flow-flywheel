@@ -32,4 +32,4 @@ Reflection fuels momentum and maturity.
 
 ---
 
-[Next: Align: Feed the Learning](/how-it-works/5-align)
+[Next: Align: Connect to Strategy](/how-it-works/5-align)
