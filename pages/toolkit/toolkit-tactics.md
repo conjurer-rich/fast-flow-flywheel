@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-tactics
-title: "The Fast Flow Toolkit - Tactics"
+title: "The Fast Flow Toolkit™️ - Tactics"
 excerpt: "Tactical interventions to optimize flow, autonomy, and decision-making in specific areas. The specific steps to address bottlenecks, adjust structures, or increase alignment and coordination."
 layout: single
 author_profile: false
@@ -35,6 +35,6 @@ sidebar:
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
 
-## Want to use the Fast Flow Toolkit in your organization?
+## Want to use the Fast Flow Toolkit™️ in your organization?
 
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}.
+[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}.

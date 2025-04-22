@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Fast Flow Flywheel"
+title: "Overview of the Fast Flow Flywheel™️"
 permalink: /overview
 layout: single
 author_profile: false
@@ -8,17 +8,17 @@ sidebar:
 classes: wide
 ---
 
-![Fast Flow Flywheel](/assets/images/inner-flywheel.png){: style="width: 400px;" .align-center}
+![Fast Flow Flywheel™️](/assets/images/inner-flywheel.png){: style="width: 400px;" .align-center}
 
-## What Is the Fast Flow Flywheel?
+## What Is the Fast Flow Flywheel™️?
 
-The Fast Flow Flywheel is a practical, systems-informed approach to evolving your organizational structure, team interactions, and decision-making to enable faster, more sustainable flow of value.
+The Fast Flow Flywheel™️ is a practical, systems-informed approach to evolving your organizational structure, team interactions, and decision-making to enable faster, more sustainable flow of value.
 
 At its heart, the Flywheel helps you answer a vital question:
 
 > "Are our current teams, services, and structures helping, or hindering, our ability to deliver value quickly and consistently?"
 
-Rather than prescribing a one-size-fits-all solution, the Fast Flow Flywheel guides you through a repeatable cycle of discovery, validation, and alignment, making it easier to spot what’s getting in the way of flow, test new options, and make better structural decisions over time.
+Rather than prescribing a one-size-fits-all solution, the Fast Flow Flywheel™️ guides you through a repeatable cycle of discovery, validation, and alignment, making it easier to spot what’s getting in the way of flow, test new options, and make better structural decisions over time.
 
 ## Why Organizations Use the Flywheel
 
@@ -34,7 +34,7 @@ The Flywheel helps organizations:
 
 ## How the Flywheel Works
 
-The Fast Flow Flywheel is built on a set of interlocking practices that reinforce each other over time:
+The Fast Flow Flywheel™️ is built on a set of interlocking practices that reinforce each other over time:
 
 - **Sense Signals**: Detect early signs of friction, confusion, or misalignment in team interactions and delivery.
 - **Trigger Exploration**: Investigate the root causes behind those signals and frame the right questions to ask next.
@@ -46,13 +46,13 @@ Over time, this cycle builds organizational momentum: small wins compound, knowl
 
 ## Who It’s For
 
-The Fast Flow Flywheel is designed for job executors like transformation leaders, platform leads, org designers, and change agents, alongside their supporting enablers in coaching, enablement, or architecture roles.
+The Fast Flow Flywheel™️ is designed for job executors like transformation leaders, platform leads, org designers, and change agents, alongside their supporting enablers in coaching, enablement, or architecture roles.
 
 It’s also a powerful tool for buyers like CTOs, VPs of Engineering, or Heads of Transformation who need a clear, credible path toward delivering faster, more predictable value at scale.
 
 ## Common Triggers That Signal It’s Time for the Flywheel
 
-You might be ready for the Fast Flow Flywheel if you’ve noticed:
+You might be ready for the Fast Flow Flywheel™️ if you’ve noticed:
 
 - ❌ Teams drowning in cognitive load or context-switching
 - ❌ Repeated delivery delays despite “Agile” practices
@@ -62,7 +62,7 @@ You might be ready for the Fast Flow Flywheel if you’ve noticed:
 
 ## What You Get
 
-If you run a Fast Flow Flywheel Rotation within your organization, you can expect to get:
+If you run a Fast Flow Flywheel™️ Rotation within your organization, you can expect to get:
 
 - A clear view of current team and service boundaries
 - A visual map of user needs and business capabilities
@@ -72,7 +72,7 @@ If you run a Fast Flow Flywheel Rotation within your organization, you can expec
 
 ## Want to take a closer look?
 
-[Learn more about a Fast Flow Flywheel Rotation](/how-it-works/rotation-overview)
+[Learn more about a Fast Flow Flywheel™️ Rotation](/how-it-works/rotation-overview)
 
 ## Ready to Start Spinning the Flywheel?
 

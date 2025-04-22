@@ -56,7 +56,7 @@ A focused engagement to align, unblock, and activate your path to faster flow.
 
 ![Flywheel Kickstarter](/assets/images/flywheel-kickstarter.png){: .align-center width="30%"}
 
-A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel,from sensing to decision-making to strategic alignment and roadmap creation.
+A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel™️,from sensing to decision-making to strategic alignment and roadmap creation.
 
 This is not a one-time fix. It’s the first turn in a repeatable, value-driving rhythm.
 

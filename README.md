@@ -1,7 +1,7 @@
 
-# Fast Flow Flywheel
+# Fast Flow Flywheel™️
 
-The main website for the Fast Flow Flywheel
+The main website for the Fast Flow Flywheel™️
 
 ## Development
 

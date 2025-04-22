@@ -18,7 +18,7 @@ Are you navigating team boundaries, structural friction, or flow slowdowns? You'
 
 That’s why I’m exploring a new book: **Facilitating Fast Flow**, for practitioners who want to turn signals into action and make structural change safer, faster, and more effective.
 
-It will bring together the tools, techniques, and facilitation patterns behind the Fast Flow Flywheel, including:
+It will bring together the tools, techniques, and facilitation patterns behind the Fast Flow Flywheel™️, including:
 
 - How to spot early flow signals and uncover hidden blockers
 - How to make and test Flow Decisions without triggering a big reorg

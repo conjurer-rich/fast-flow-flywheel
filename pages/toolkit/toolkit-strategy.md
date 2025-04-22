@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-strategy
-title: "The Fast Flow Toolkit - Strategy"
+title: "The Fast Flow Toolkit™️ - Strategy"
 excerpt: "The **Strategy** element helps define the big-picture direction that team structures, capabilities, and flow decisions should serve. It anchors the system in **outcomes that matter**, so that tactical and structural choices stay grounded in purpose."
 layout: single
 author_profile: false
@@ -40,6 +40,6 @@ The **Strategy** element helps define the big-picture direction that team struct
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
 
-## Want to use the Fast Flow Toolkit in your organization?
+## Want to use the Fast Flow Toolkit™️ in your organization?
 
-[Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+[Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}

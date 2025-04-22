@@ -36,7 +36,7 @@ If you've ever sensed friction and wondered, “How do we actually fix this?”�
 
 ✅ **User Needs Mapping Primer:** A visual overview of the UNM technique and a simple exercise to uncover misaligned team boundaries.
 
-✅ **Intro to the Fast Flow Flywheel:** Understand how the Flywheel connects signals, plays, and decisions into repeatable momentum.
+✅ **Intro to the Fast Flow Flywheel™️:** Understand how the Flywheel connects signals, plays, and decisions into repeatable momentum.
 
 ## Why It’s Useful
 

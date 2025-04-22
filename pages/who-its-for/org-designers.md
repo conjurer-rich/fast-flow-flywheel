@@ -10,7 +10,7 @@ sidebar:
 
 ## Fast Flow for Org Designers and Transformation Leaders
 
-When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose,not chaos.
+When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel™️ gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose,not chaos.
 
 ## You’re trying to…
 

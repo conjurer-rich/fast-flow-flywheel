@@ -9,7 +9,7 @@ sidebar:
   nav: side-navigation
 ---
 
-The Fast Flow Flywheel is an opinionated approach to aligning, unblocking, and accelerating flow. It is not a prescriptive framework. The following engagements are designed to meet you where you are - if you can't find a fit, please [reach out](/contact).
+The Fast Flow Flywheel™️ is an opinionated approach to aligning, unblocking, and accelerating flow. It is not a prescriptive framework. The following engagements are designed to meet you where you are - if you can't find a fit, please [reach out](/contact).
 
 ## 🌀 Kickstart the Flywheel
 

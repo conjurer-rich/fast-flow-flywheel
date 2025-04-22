@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-plays
-title: "The Fast Flow Toolkit - Plays"
+title: "The Fast Flow Toolkit™️ - Plays"
 excerpt: "Strategic actions to address flow blockers and improve alignment or efficiency. High-level actions for organizational and team-level improvements."
 layout: single
 author_profile: false
@@ -36,6 +36,6 @@ sidebar:
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
 
-## Want to use the Fast Flow Toolkit in your organization?
+## Want to use the Fast Flow Toolkit™️ in your organization?
 
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}

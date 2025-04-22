@@ -1,7 +1,7 @@
 ---
 permalink: /toolkit/toolkit-overview
-title: "The Fast Flow Toolkit"
-excerpt: "The Fast Flow Toolkit is a collection of tools and resources to help facilitate your Fast Flow Flywheel."
+title: "The Fast Flow Toolkit™️"
+excerpt: "The Fast Flow Toolkit™️ is a collection of tools and resources to help facilitate your Fast Flow Flywheel™️."
 layout: single
 author_profile: false
 classes: wide
@@ -9,7 +9,7 @@ sidebar:
   nav: side-navigation
 ---
 
-The Fast Flow Toolkit is a collection of principles, heuristics, tactics, patterns and plays to get a Fast Flow Flywheel turning. Built after years of hands-on experience helping organizations adopt Fast Flow, this is a must have for any serious Fast Flow facilitator. The toolkit contains the following elements:
+The Fast Flow Toolkit™️ is a collection of principles, heuristics, tactics, patterns and plays to get a Fast Flow Flywheel™️ turning. Built after years of hands-on experience helping organizations adopt Fast Flow, this is a must have for any serious Fast Flow facilitator. The toolkit contains the following elements:
 
 ## 🧭 Strategy
 
@@ -77,6 +77,6 @@ The Reflection element helps teams **review progress** and assess whether the ch
 
 Learn more about [Reflection](/toolkit/toolkit-reflection)
 
-## Want to use the Fast Flow Toolkit in your organization?
+## Want to use the Fast Flow Toolkit™️ in your organization?
 
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com) with the Fast Flow Flywheel today.
+[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com) with the Fast Flow Flywheel™️ today.

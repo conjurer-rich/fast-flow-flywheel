@@ -10,7 +10,7 @@ sidebar:
 
 ## Fast Flow for Strategic Leaders
 
-Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel gives you a practical system to align structure with strategy,so your organization can move faster, with less friction.
+Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel™️ gives you a practical system to align structure with strategy,so your organization can move faster, with less friction.
 
 ## You’re accountable for…
 
@@ -21,7 +21,7 @@ Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flo
 
 But too often, the team structure you inherit wasn’t built for what the org is trying to achieve today.
 
-## The Fast Flow Flywheel Helps You
+## The Fast Flow Flywheel™️ Helps You
 
 ### Expose hidden blockers
 

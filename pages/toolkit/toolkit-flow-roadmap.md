@@ -1,5 +1,5 @@
 --- 
-title: "📍 Flow Decision Roadmap"
+title: "📍 Flow Roadmap"
 layout: single
 permalink: /toolkit/toolkit-flow-roadmap
 sidebar:
@@ -7,9 +7,9 @@ sidebar:
 classes: wide
 ---
 
-The Flow Decision Roadmap is a living artifact that helps you **sequence the changes** needed to improve flow, guided by real signals,not guesses or top-down plans.
+The Flow Roadmap is a living artifact that helps you **sequence the changes** needed to improve flow, guided by real signals,not guesses or top-down plans.
 
-![Flow Decision Roadmap](/assets/images/flow-decision-roadmap.png)
+![Flow Roadmap](/assets/images/flow-decision-roadmap.png)
 
 Unlike traditional project roadmaps, the Flow Roadmap:
 

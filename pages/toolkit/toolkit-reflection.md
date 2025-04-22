@@ -1,6 +1,6 @@
 ---
 permalink: /toolkit/toolkit-reflection
-title: "🔄 The Fast Flow Toolkit - Reflection"
+title: "🔄 The Fast Flow Toolkit™️ - Reflection"
 excerpt: "Review progress and assess whether the changes made have resulted in improved flow and alignment. Questions or prompts for reflection, helping users assess how the flow is evolving and where they may need to double down on efforts."
 layout: single
 author_profile: false
@@ -39,6 +39,6 @@ sidebar:
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
 
-## Want to use the Fast Flow Toolkit in your organization?
+## Want to use the Fast Flow Toolkit™️ in your organization?
 
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}

@@ -7,11 +7,11 @@ sidebar:
   nav: "side-navigation"
 ---
 
-The Fast Flow Flywheel is for anyone who wants to improve their flow.
+The Fast Flow Flywheel™️ is for anyone who wants to improve their flow.
 
 ## Fast Flow for Strategic Leaders
 
-Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel gives you a practical system to align structure with strategy,so your organization can move faster, with less friction.
+Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Flywheel™️ gives you a practical system to align structure with strategy,so your organization can move faster, with less friction.
 
 ## You’re accountable for…
 
@@ -22,7 +22,7 @@ Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flo
 
 But too often, the team structure you inherit wasn’t built for what the org is trying to achieve today.
 
-## The Fast Flow Flywheel Helps Strategic Leaders
+## The Fast Flow Flywheel™️ Helps Strategic Leaders
 
 **Expose hidden blockers** - Surface the flow signals and misalignments that delay delivery and increase coordination cost.
 
@@ -42,7 +42,7 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 ## Fast Flow for Product Leaders
 
-Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker,for product outcomes.
+Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel™️ helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker,for product outcomes.
 
 ## You’re trying to…
 
@@ -53,7 +53,7 @@ Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel helps He
 
 But if your team structure doesn’t match how value flows, your roadmap is always at risk.
 
-### The Fast Flow Flywheel Helps Product Leaders
+### The Fast Flow Flywheel™️ Helps Product Leaders
 
 **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
 
@@ -81,7 +81,7 @@ or
 
 ## Fast Flow for Org Designers and Transformation Leaders
 
-When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose,not chaos.
+When your org is built for yesterday, even small changes feel hard. The Fast Flow Flywheel™️ gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose,not chaos.
 
 ### You’re trying to…
 
@@ -120,7 +120,7 @@ or
 
 ## Fast Flow for Platform Team Leaders
 
-Your platform should accelerate teams,not add more friction. The Fast Flow Flywheel helps you understand your internal users, reduce cognitive load, and make platform decisions that drive real adoption.
+Your platform should accelerate teams,not add more friction. The Fast Flow Flywheel™️ helps you understand your internal users, reduce cognitive load, and make platform decisions that drive real adoption.
 
 ### You’re trying to…
 
@@ -131,7 +131,7 @@ Your platform should accelerate teams,not add more friction. The Fast Flow Flywh
 
 But without a clear picture of your users and their needs, it’s easy to fall into the trap of building for assumptions,not outcomes.
 
-## The Fast Flow Flywheel Helps You
+## The Fast Flow Flywheel™️ Helps You
 
 **Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
 
@@ -159,7 +159,7 @@ or
 
 ## Fast Flow for Coaches and Consultants
 
-If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel equips you to surface organizational friction, guide better decisions, and help teams,and leaders,move forward with clarity.
+If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel™️ equips you to surface organizational friction, guide better decisions, and help teams,and leaders,move forward with clarity.
 
 ### You’re trying to…
 
@@ -170,7 +170,7 @@ If standups and sprints aren’t solving systemic problems, it’s time to shift
 
 But most coaching tools stop at the team level,leaving systemic issues invisible and unaddressed.
 
-### The Fast Flow Flywheel Helps You
+### The Fast Flow Flywheel™️ Helps You
 
 **Reveal signals that matter** - Use Flow Signals to spot patterns and spark meaningful conversations with leaders and teams.
 

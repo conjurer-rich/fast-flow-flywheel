@@ -10,7 +10,7 @@ sidebar:
 
 ## Fast Flow for Coaches and Consultants
 
-If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel equips you to surface organizational friction, guide better decisions, and help teams,and leaders,move forward with clarity.
+If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel™️ equips you to surface organizational friction, guide better decisions, and help teams,and leaders,move forward with clarity.
 
 ## You’re trying to…
 
@@ -21,7 +21,7 @@ If standups and sprints aren’t solving systemic problems, it’s time to shift
 
 But most coaching tools stop at the team level,leaving systemic issues invisible and unaddressed.
 
-## The Fast Flow Flywheel Helps You
+## The Fast Flow Flywheel™️ Helps You
 
 **Reveal signals that matter** - Use Flow Signals to spot patterns and spark meaningful conversations with leaders and teams.
 

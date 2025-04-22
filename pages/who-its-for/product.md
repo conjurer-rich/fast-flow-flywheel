@@ -8,7 +8,7 @@ sidebar:
   nav: "side-navigation"
 ---
 
-Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker,for product outcomes.
+Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel™️ helps Heads of Product realign teams, reduce delivery friction, and make structure a lever,not a blocker,for product outcomes.
 
 ## You’re trying to…
 
@@ -19,7 +19,7 @@ Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel helps He
 
 But if your team structure doesn’t match how value flows, your roadmap is always at risk.
 
-## The Fast Flow Flywheel Helps You
+## The Fast Flow Flywheel™️ Helps You
 
 **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
 
