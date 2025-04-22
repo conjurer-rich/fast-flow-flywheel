@@ -73,7 +73,7 @@ It connects:
 
 - Flow Objectives → clear direction
 - Flow Signals → friction in the system
-- Fast Flow Plays → repeatable responses
+- Flow Plays → repeatable responses
 - Flow Decisions → decentralized alignment
 - Flow Roadmaps → visible progress
 
