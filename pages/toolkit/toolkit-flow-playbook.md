@@ -206,3 +206,5 @@ Decisions shouldn’t pile up in a backlog,they should flow, just like the work 
 - Review the Radar and Roadmap together in regular Flow Clinics
 - Use reflections and outcomes to refine your radar categories
 - Track signal-to-impact patterns over time to improve foresight
+
+[⬅ Back to Overview](/toolkit/toolkit-overview)

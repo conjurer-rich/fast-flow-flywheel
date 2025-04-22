@@ -32,6 +32,10 @@ side-navigation:
     url: /who-its-for/whos-it-for-overview
   - title: "Fast Flow Tools & Resources"
     children:
+      - title: "Facilitating Fast Flow Book"
+        url: /toolkit/facilitating-fast-flow-book
+      - title: "Fast Flow Toolkit"
+        url: /toolkit/toolkit-overview
       - title: "Flow Signals Radar"
         url: /toolkit/toolkit-flow-signals-radar
       - title: "Flow Clinics"
@@ -42,8 +46,6 @@ side-navigation:
         url: /toolkit/toolkit-flow-playbook
       - title: "Fast Flow Starter Kit"
         url: /toolkit/toolkit-starter-kit
-      - title: "Fast Flow Toolkit"
-        url: /toolkit/toolkit-overview
   - title: "Engagement Options"
     url: /engagements/engagement-overview
     children:

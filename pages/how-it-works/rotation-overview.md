@@ -12,7 +12,7 @@ sidebar:
 
 A Flywheel Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
 
-We help you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
+It helps you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
 
 It’s not a reorg. It’s not a workshop. It’s a structured way to build momentum, fast.
 
@@ -32,7 +32,7 @@ A Flywheel Rotation helps you step back, see what’s really going on, and make 
 
 ## How it works
 
-We guide your team (or teams) through six connected steps:
+A Flywheel Facilitator guides your team (or teams) through six connected steps:
 
 **1. Detect** - Spot the warning signs, what we call flow signals, that something isn’t working.
 

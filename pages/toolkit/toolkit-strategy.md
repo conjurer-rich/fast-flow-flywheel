@@ -39,3 +39,7 @@ The **Strategy** element helps define the big-picture direction that team struct
 - [🔁 Reflection](/toolkit/toolkit-reflection)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
+
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
