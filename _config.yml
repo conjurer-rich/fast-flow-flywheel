@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en"
-title: "Fast Flow Flywheel™️"
+title: "Fast Flow Flywheel"
 title_separator: "-"
 #subtitle: "Align teams, unlock value, empower growth." # site tagline that appears below site title in masthead
 logo: "/assets/images/fast-flow-flywheel-logo-white-bg.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"

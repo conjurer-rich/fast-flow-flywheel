@@ -1,7 +1,7 @@
 ---
 permalink: /toolkit/toolkit-overview
-title: "The Fast Flow Toolkit™️"
-excerpt: "The Fast Flow Toolkit™️ is a collection of tools and resources to help facilitate your Fast Flow Flywheel™️."
+title: "The Fast Flow Toolkit"
+excerpt: "The Fast Flow Toolkit is a collection of tools and resources to help facilitate your Fast Flow Flywheel."
 layout: single
 author_profile: false
 classes: wide
@@ -77,6 +77,6 @@ The Reflection element helps teams **review progress** and assess whether the ch
 
 Learn more about [Reflection](/toolkit/toolkit-reflection)
 
-## Want to use the Fast Flow Toolkit™️ in your organization?
+## Want to use the Fast Flow Toolkit in your organization?
 
-[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com) with the Fast Flow Flywheel™️ today.
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com) with the Fast Flow Flywheel today.

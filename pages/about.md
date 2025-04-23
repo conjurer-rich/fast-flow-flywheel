@@ -29,7 +29,7 @@ This led us to develop a systematic approach that combines proven methodologies 
 
 #### Creator of User Needs Mapping & Flow Decision Records
 
-Rich Allen is a recognized expert in organizational design and flow optimization. With over 15 years of experience helping organizations improve their value delivery, Rich has developed and refined the Fast Flow Flywheel™️ through real-world implementation.
+Rich Allen is a recognized expert in organizational design and flow optimization. With over 15 years of experience helping organizations improve their value delivery, Rich has developed and refined the Fast Flow Flywheel through real-world implementation.
 
 **Experience**:
 
@@ -42,7 +42,7 @@ Rich Allen is a recognized expert in organizational design and flow optimization
 
 - Created/Curates User Needs Mapping
 - Created/Curates Flow Decision Records (FDRs)
-- Developed the Fast Flow Flywheel™️
+- Developed the Fast Flow Flywheel
 - Led successful transformations
 
 ## Our approach
@@ -57,7 +57,7 @@ Rich Allen is a recognized expert in organizational design and flow optimization
 
 ### Methodology
 
-The Fast Flow Flywheel™️ combines industry-leading practices to help you:
+The Fast Flow Flywheel is a curated approach that combines industry-leading practices to help you:
 
 - **Align on target outcomes**: Gaining clarity on what you are trying to achieve (Outcome Mapping - Flow Engineering - Steve Pereira and Andrew Davis)
 - **Make constraints beautiful**: Propelling questions, exploring path dependence and "We can if..." thinking (A Beautiful Constraint - Mark Barden and Adam Morgan)

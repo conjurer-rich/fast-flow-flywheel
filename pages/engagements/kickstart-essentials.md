@@ -1,7 +1,7 @@
 ---
 permalink: /engagements/kickstart-essentials
 title: "Kickstart Essentials"
-excerpt: "A lightweight first turn of the Fast Flow Flywheel™️"
+excerpt: "A lightweight first turn of the Fast Flow Flywheel"
 layout: single
 author_profile: false
 classes: wide
@@ -15,7 +15,7 @@ A lightweight first turn of the Fast Flow Flywheel™️
 
 ## Start where you are. Move what matters
 
-Kickstart Essentials is a time-boxed engagement designed to help you explore flow problems, make progress on key decisions, and test the value of the Fast Flow Flywheel™️,without a large upfront commitment.
+Kickstart Essentials is a time-boxed engagement designed to help you explore flow problems, make progress on key decisions, and test the value of the Fast Flow Flywheel,without a large upfront commitment.
 
 If your teams are feeling stuck, misaligned, or overburdened,but you’re not sure where to start,Kickstart Essentials gives you a fast, focused way to uncover what's slowing you down and begin evolving with confidence.
 
