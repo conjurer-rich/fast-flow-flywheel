@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 classes: wide
 sidebar:
-  nav: "playbooks"
+  nav: "side-navigation"
 ---
 
 ## What is it?

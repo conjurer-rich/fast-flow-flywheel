@@ -24,11 +24,9 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 ## The Fast Flow Flywheel Helps Strategic Leaders
 
-**Expose hidden blockers** - Surface the flow signals and misalignments that delay delivery and increase coordination cost.
-
-**Make smarter org decisions** - Use Flow Decision Records to drive structural decisions with clear rationale and shared context.
-
-**Align teams with architecture and outcomes** - Organize around real value streams, capabilities, and user needs, not functional silos or legacy structures.
+- **Expose hidden blockers** - Surface the flow signals and misalignments that delay delivery and increase coordination cost.
+- **Make smarter org decisions** - Use Flow Decision Records to drive structural decisions with clear rationale and shared context.
+- **Align teams with architecture and outcomes** - Organize around real value streams, capabilities, and user needs, not functional silos or legacy structures.
 
 ---
 
@@ -63,11 +61,9 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 
 ### The Fast Flow Flywheel Helps Product Leaders
 
-**Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
-
-**Connect outcomes to team boundaries** - User Needs Mapping helps you shape teams around real capabilities and strategic bets.
-
-**Co-create smarter decisions** - Flow Clinics give you a space to align with engineering and design leaders around shared constraints and goals.
+- **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
+- **Connect outcomes to team boundaries** - User Needs Mapping helps you shape teams around real capabilities and strategic bets.
+- **Co-create smarter decisions** - Flow Clinics give you a space to align with engineering and design leaders around shared constraints and goals.
 
 ---
 
@@ -102,11 +98,9 @@ But without a clear picture of how value flows,or where it’s blocked, it’s i
 
 ### How the Fast Flow Platform helps
 
-**Clarity** – Map current value flow, user needs, and where misalignment lives
-
-**Confidence** – Use Flow Decision Records to guide and document the “why” behind every change
-
-**Credibility** – Bring leaders and teams into the process with visual, participatory methods
+- **Clarity** – Map current value flow, user needs, and where misalignment lives
+- **Confidence** – Use Flow Decision Records to guide and document the “why” behind every change
+- **Credibility** – Bring leaders and teams into the process with visual, participatory methods
 
 ---
 
@@ -141,10 +135,9 @@ But without a clear picture of your users and their needs, it’s easy to fall i
 
 ## The Fast Flow Flywheel Helps You
 
-**Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
-
-**Spot flow friction before it escalates** - Identify where your platform is helping, or unintentionally hindering,team delivery.
-
+- **Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
+- **Spot flow friction before it escalates** - Identify where your platform is helping, or unintentionally hindering,team delivery.
+- **Make confident investment decisions** - Use Flow Decision Records to guide platform evolution, prioritize capabilities, and justify trade-offs.
 **Make confident investment decisions** - Use Flow Decision Records to guide platform evolution, prioritize capabilities, and justify trade-offs.
 
 ---
@@ -165,7 +158,7 @@ or
 
 ---
 
-## Fast Flow for Coaches and Consultants
+## Fast Flow for Agile Coaches and Facilitators
 
 If standups and sprints aren’t solving systemic problems, it’s time to shift focus. The Fast Flow Flywheel™️ equips you to surface organizational friction, guide better decisions, and help teams,and leaders, move forward with clarity.
 
@@ -180,11 +173,9 @@ But most coaching tools stop at the team level,leaving systemic issues invisible
 
 ### The Fast Flow Flywheel Helps You
 
-**Reveal signals that matter** - Use Flow Signals to spot patterns and spark meaningful conversations with leaders and teams.
-
-**Facilitate better conversations** - Bring people together in Flow Clinics to co-create structural decisions that stick.
-
-**Expand your toolkit** - Move beyond ceremonies with practices like User Needs Mapping and Flow Decision Records, practical, visual, and participatory.
+- **Reveal signals that matter** - Use Flow Signals to spot patterns and spark meaningful conversations with leaders and teams.
+- **Facilitate better conversations** - Bring people together in Flow Clinics to co-create structural decisions that stick.
+- **Expand your toolkit** - Move beyond ceremonies with practices like User Needs Mapping and Flow Decision Records, practical, visual, and participatory.
 
 ---
 

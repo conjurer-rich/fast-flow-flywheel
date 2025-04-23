@@ -4,7 +4,7 @@ title: Faster Flow Playbooks
 description: Practical, decision-support playbooks to help unblock flow and align structure with strategy.
 permalink: /playbooks/
 sidebar:
-  nav: "playbooks"
+  nav: "side-navigation"
 classes: wide
 ---
 

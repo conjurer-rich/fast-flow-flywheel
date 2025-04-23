@@ -36,6 +36,6 @@ sidebar:
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
 
-## Want to use the Fast Flow Toolkit™️ in your organization?
+## Want to use the Fast Flow Toolkit in your organization?
 
-[Get access to the Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
