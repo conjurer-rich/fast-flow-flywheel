@@ -29,7 +29,7 @@ why-faster-flow:
     image_path: /assets/images/strategic-direction.png
 ---
 
-![Fast Flow Flywheel™️](/assets/images/fast-flow-flywheel-white-bg.png){: .align-right width="50%" }
+![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg.png){: .align-right width="50%" }
 
 Truly adaptive organizations succeed in a rapidly changing world because they are able to quickly sense, share and solve any problems that arise when their environment changes.
 
@@ -42,7 +42,7 @@ Meet the Fast Flow Flywheel™️
 Most teams don’t need a big reorg.
 They need a way to spot what’s not working, decide what to adjust, and move forward together.
 
-The Fast Flow Flywheel™️ gives you a practical loop for evolving how teams and services are structured, based on real signals, not guesswork.
+The Fast Flow Flywheel gives you a practical loop for evolving how teams and services are structured, based on real signals, not guesswork.
 
 > It’s not a framework. It’s a rhythm. A way to make progress visible, safe, and aligned.
 
@@ -52,18 +52,18 @@ The Fast Flow Flywheel™️ gives you a practical loop for evolving how teams a
 
 A lightweight, repeatable process for adapting your structure to match the work.
 
-![Fast Flow Flywheel™️](/assets/images/flywheel-stages.png){: .align-center width="50%" }
+![Fast Flow Flywheel](/assets/images/flywheel-stages.png){: .align-center width="50%" }
 
 ## Designed to accelerate your path to agility, innovation, and competitive advantage
 
-The Faster Flow Flywheel was explicitly built to help you:
+The Fast Flow Flywheel was explicitly built to help you:
 
 - **Understand where you are**: Clearly visualize your organization's existing flow and team boundaries.
 - **Diagnose your flow issues**: Accurately pinpoint what’s slowing you down and holding you back.
 - **Align for success**: Confidently validate and implement structural changes, ensuring teams are naturally aligned with delivering value.
 - **Plan with clarity**: Develop feasible, clearly defined future states and roadmaps that align with your strategic vision.
 
-![Fast Flow Flywheel™️ Starter Kit](/assets/images/fast-flow-flywheel-star.png){: .align-right width="400px" }
+![Fast Flow Flywheel Starter Kit](/assets/images/fast-flow-flywheel-star.png){: .align-right width="400px" }
 
 ## The engine that turns signals into momentum
 
@@ -81,7 +81,7 @@ It connects:
 
 ## Who is this for?
 
-The Fast Flow Platform is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
+The Fast Flow Flywheel is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
 
 - [Strategic Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-strategic-leaders)
 - [Product Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-product-leaders)

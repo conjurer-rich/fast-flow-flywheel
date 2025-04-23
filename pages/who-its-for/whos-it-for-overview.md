@@ -22,7 +22,7 @@ Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flo
 
 But too often, the team structure you inherit wasn’t built for what the org is trying to achieve today.
 
-## The Fast Flow Flywheel™️ Helps Strategic Leaders
+## The Fast Flow Flywheel Helps Strategic Leaders
 
 **Expose hidden blockers** - Surface the flow signals and misalignments that delay delivery and increase coordination cost.
 
@@ -37,6 +37,14 @@ But too often, the team structure you inherit wasn’t built for what the org is
 - **Flow Signals Radar** – quickly assess where flow is breaking down
 - **User Needs Mapping** – validate or rethink team boundaries
 - **Flow Decision Playbook** – guide org design with clarity and speed
+
+## Interested in learning more?
+
+[Book a strategy alignment session](/contact)
+
+or
+
+[Download the Playbook for Strategic Leaders](/playbooks/strategic-leader-playbook)
 
 ---
 
@@ -53,7 +61,7 @@ Big bets fall flat when the org isn’t aligned. The Fast Flow Flywheel™️ he
 
 But if your team structure doesn’t match how value flows, your roadmap is always at risk.
 
-### The Fast Flow Flywheel™️ Helps Product Leaders
+### The Fast Flow Flywheel Helps Product Leaders
 
 **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
 
@@ -131,7 +139,7 @@ Your platform should accelerate teams,not add more friction. The Fast Flow Flywh
 
 But without a clear picture of your users and their needs, it’s easy to fall into the trap of building for assumptions,not outcomes.
 
-## The Fast Flow Flywheel™️ Helps You
+## The Fast Flow Flywheel Helps You
 
 **Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
 
@@ -170,7 +178,7 @@ If standups and sprints aren’t solving systemic problems, it’s time to shift
 
 But most coaching tools stop at the team level,leaving systemic issues invisible and unaddressed.
 
-### The Fast Flow Flywheel™️ Helps You
+### The Fast Flow Flywheel Helps You
 
 **Reveal signals that matter** - Use Flow Signals to spot patterns and spark meaningful conversations with leaders and teams.
 
@@ -188,4 +196,4 @@ But most coaching tools stop at the team level,leaving systemic issues invisible
 
 ---
 
-[Facilitate a Flow Clinic](/contact)
+Work with us to [Co-facilitate a Flow Clinic](/contact)
