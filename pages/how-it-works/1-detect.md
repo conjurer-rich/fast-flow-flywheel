@@ -28,7 +28,7 @@ We call these **Flow Signals**, early indicators that something is off:
 
 ## Tools that help
 
-- **Flow Signals Radar** – assess the health of your current structures
+- **Flow Friction Radar** – assess the health of your current structures
 - **Flow Clinics** – facilitated sessions to surface signals across teams
 - **Flow Tactics** – catalog of common signals and how to respond
 

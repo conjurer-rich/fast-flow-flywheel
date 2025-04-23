@@ -23,7 +23,7 @@ A structured engagement to align on purpose, map the current landscape, surface 
 
 - Strategic intent & flow objective alignment
 - Landscape mapping (teams, services, blockers)
-- Flow Signals Radar + 2–3 Flow Clinics
+- Flow Friction Radar + 2–3 Flow Clinics
 - Validated Flow Decision Records (FDRs)
 - Now / Next / Later Flow Roadmap
 - Follow-up reflection session

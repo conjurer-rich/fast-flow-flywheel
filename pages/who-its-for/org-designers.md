@@ -34,7 +34,7 @@ But without a clear picture of how value flows,or where it’s blocked,it’s im
 ## Techniques you can use right now
 
 - **User Needs Mapping** – identify where boundaries should shift
-- **Flow Signals Radar** – assess where friction is slowing you down
+- **Flow Friction Radar** – assess where friction is slowing you down
 - **Flow Clinics** – co-create decisions with those closest to the work
 
 ---

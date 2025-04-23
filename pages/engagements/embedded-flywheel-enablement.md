@@ -44,7 +44,7 @@ A flexible, quarterly rhythm of support tailored to your teams and context. Typi
 
 ✅ Quarterly Flywheel Rotations
 
-✅ Flow Signals Radar updates
+✅ Flow Friction Radar updates
 
 ✅ New or evolving Flow Decisions
 

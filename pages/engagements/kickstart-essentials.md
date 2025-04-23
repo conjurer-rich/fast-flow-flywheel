@@ -23,7 +23,7 @@ If your teams are feeling stuck, misaligned, or overburdened,but you’re not su
 
 A hands-on, collaborative engagement (1–2 weeks) that includes:
 
-### Flow Signals Radar
+### Flow Friction Radar
 
 A structured session to surface and prioritize the signals that suggest flow is breaking down,delivery delays, handoff friction, cognitive overload, unclear ownership, and more.
 

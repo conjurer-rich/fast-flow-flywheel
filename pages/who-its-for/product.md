@@ -21,7 +21,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 
 ## The Fast Flow Flywheel™️ Helps You
 
-**Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
+**Reveal where friction hides** - Use the Flow Friction Radar to surface structural misalignments that slow delivery or dilute ownership.
 
 **Connect outcomes to team boundaries** - User Needs Mapping helps you shape teams around real capabilities and strategic bets.
 
@@ -32,7 +32,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 ## Techniques you can use right now
 
 - **User Needs Mapping** – clarify which teams are best placed to own which parts of the product
-- **Flow Signals Radar** – expose coordination overload and unclear ownership
+- **Flow Friction Radar** – expose coordination overload and unclear ownership
 - **Flow Decision Records** – document decisions that evolve your org with your roadmap
 
 ---

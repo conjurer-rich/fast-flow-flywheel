@@ -32,7 +32,7 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 ## What you can use today
 
-- **Flow Signals Radar** – quickly assess where flow is breaking down
+- **Flow Friction Radar** – quickly assess where flow is breaking down
 - **User Needs Mapping** – validate or rethink team boundaries
 - **Flow Decision Playbook** – guide org design with clarity and speed
 
@@ -61,7 +61,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 
 ### The Fast Flow Flywheel Helps Product Leaders
 
-- **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
+- **Reveal where friction hides** - Use the Flow Friction Radar to surface structural misalignments that slow delivery or dilute ownership.
 - **Connect outcomes to team boundaries** - User Needs Mapping helps you shape teams around real capabilities and strategic bets.
 - **Co-create smarter decisions** - Flow Clinics give you a space to align with engineering and design leaders around shared constraints and goals.
 
@@ -70,7 +70,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 ### Techniques you can use right now
 
 - **User Needs Mapping** – clarify which teams are best placed to own which parts of the product
-- **Flow Signals Radar** – expose coordination overload and unclear ownership
+- **Flow Friction Radar** – expose coordination overload and unclear ownership
 - **Flow Decision Records** – document decisions that evolve your org with your roadmap
 
 ---
@@ -107,7 +107,7 @@ But without a clear picture of how value flows,or where it’s blocked, it’s i
 ### Techniques you can use right now
 
 - **User Needs Mapping** – identify where boundaries should shift
-- **Flow Signals Radar** – assess where friction is slowing you down
+- **Flow Friction Radar** – assess where friction is slowing you down
 - **Flow Clinics** – co-create decisions with those closest to the work
 
 ---
@@ -181,7 +181,7 @@ But most coaching tools stop at the team level,leaving systemic issues invisible
 
 ### What You Can Use Today
 
-- **Flow Signals Radar** – to assess systemic friction points
+- **Flow Friction Radar** – to assess systemic friction points
 - **User Needs Mapping** – to realign teams around purpose
 - **Flow Clinics** – to spark collaborative structural change
 

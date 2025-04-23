@@ -149,9 +149,9 @@ Categories of Signals:
 - 🧠 Cognitive load indicators (context switching, rework, burnout)
 - 🔁 Repeated exceptions (edge cases becoming the norm)
 
-### 🧭 [Flow Signals Radar](/toolkit/toolkit-flow-signals-radar)
+### 🧭 [Flow Friction Radar](/toolkit/toolkit-flow-signals-radar)
 
-The Flow Signals Radar is a facilitation tool used in workshops or retrospectives to surface, cluster, and visualize signals across multiple teams or services. It helps teams and facilitators answer:
+The Flow Friction Radar is a facilitation tool used in workshops or retrospectives to surface, cluster, and visualize signals across multiple teams or services. It helps teams and facilitators answer:
 
 - Where are signals strongest?
 - What kind of signals are we seeing?

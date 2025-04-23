@@ -45,7 +45,7 @@ Designed for busy practitioners who want **practical support**, not just theory.
 - 🔗 [**Flow Decision Playbook**](https://flowdecisionrecords.com/docs/playbook)  
   *Make structural decisions visible, participatory, and traceable.*
 
-- 🔗 [**Flow Signals Radar**](https://flowdecisionrecords.com/docs/flow-signals-radar)  
+- 🔗 [**Flow Friction Radar**](https://flowdecisionrecords.com/docs/flow-signals-radar)  
   *Spot early signals of friction and prioritize what to address first.*
 
 ### Coming Soon – Join the Waitlist

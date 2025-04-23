@@ -1,15 +1,15 @@
 ---
 permalink: /toolkit/toolkit-flow-signals-radar
-title: "📡 Flow Signals Radar"
+title: "📡 Flow Friction Radar"
 layout: single
 sidebar:
   nav: "side-navigation"
 classes: wide
 ---
 
-The **Flow Signals Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
+The **Flow Friction Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
 
-![Flow Signals Radar](/assets/images/flow-decision-radar-categories.png)
+![Flow Friction Radar](/assets/images/flow-decision-radar-categories.png)
 
 ---
 
