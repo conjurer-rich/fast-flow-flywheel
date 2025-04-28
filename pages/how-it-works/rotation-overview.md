@@ -8,7 +8,7 @@ sidebar:
   nav: side-navigation
 ---
 
-![Flywheel Rotation](/assets/images/flywheel-rotation.png){: .align-center width="400px"}
+![Flywheel Rotation](/assets/images/flywheel-rotation-whitebg.png){: .align-center width="400px"}
 
 A Flywheel Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
 
@@ -32,19 +32,29 @@ A Flywheel Rotation helps you step back, see what’s really going on, and make 
 
 ## How it works
 
-A Flywheel Facilitator guides your team (or teams) through six connected steps:
+The Fast Flow Flywheel rotates through five connected practices that help organizations sense tensions, respond with intention, and continuously evolve team structures to unlock flow.
 
-**1. Detect** - Spot the warning signs, what we call flow signals, that something isn’t working.
+This isn’t a one-time loop, it’s a living cycle of discovery, action, and alignment.
 
-**2. Decide** - Turn those signals into a clear, documented Flow Decision, a focused action worth trying.
+### 1. Sense
 
-**3. Act** - Run a lightweight intervention (like a mapping session or targeted play) to test the decision.
+**Spot weak signals before they shout** - Tune into early signs of friction, misalignment, or opportunity. Use techniques like the Flow Signals Radar, feedback loops, and pattern recognition to uncover where change may be needed—before problems escalate.
 
-**4. Reflect** - Hold a short review, what worked, what didn’t, and what we learned.
+### 2. Act
 
-**5. Align** Feed the learning into your Flow Roadmap so future changes are better informed.
+**Make visible bets and move** - Take action through explicit Flow Decisions. Whether it’s a small structural shift or a deeper team realignment, treat each change as a hypothesis. Use the advice process and Flow Decision Records to create clarity, reduce risk, and keep decisions transparent.
 
-**6. Amplify** Celebrate progress. Spread what works. Recognize wins, share effective practices, and build momentum.
+### 3. Reflect
+
+**Learn what worked and what didn’t** - Evaluate the effects of each decision. Use Flow Clinics and retrospective techniques to surface insights, update what’s known, and refine your understanding of what enables fast flow in your context.
+
+### 4. Align
+
+**Check direction and tune connection** - Ensure that team boundaries, interactions, and strategic priorities remain in sync. Use Flow Objectives, strategic heuristics, and core domain insights to support shared direction and autonomous execution.
+
+### 5. Amplify
+
+**Reinforce what unlocks flow** - Spot what’s working and spread it. Codify practices, celebrate enablers, and tell compelling stories of change. Amplification fuels momentum and helps the flywheel keep spinning.
 
 ## What you get from one rotation
 
@@ -66,7 +76,7 @@ Whether you're just starting or already in motion, a rotation helps you build th
 
 ## Looking to find out more?
 
-Take a look at a first step in a Flywheel Rotation: [Detect: Spot the Signals](/how-it-works/1-detect).
+Take a look at a first step in a Flywheel Rotation: [Sense](/how-it-works/1-sense).
 
 ## Ready to get your flywheel turning?
 

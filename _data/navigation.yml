@@ -16,18 +16,16 @@ side-navigation:
   - title: "A Flywheel Rotation (The Process)"
     url: /how-it-works/rotation-overview
     children:
-    - title: "Detect: Spot the Signals"
-      url: /how-it-works/1-detect
-    - title: "Decide: Make Flow Decisions"
-      url: /how-it-works/2-decide
-    - title: "Act: Apply and Test"
-      url: /how-it-works/3-act
-    - title: "Reflect: Learn and Adapt"
-      url: /how-it-works/4-reflect
-    - title: "Align: Connect to Strategy"
-      url: /how-it-works/5-align
-    - title: "Amplify: Enable and Empower"
-      url: /how-it-works/6-amplify
+    - title: "Sense"
+      url: /how-it-works/1-sense
+    - title: "Act"
+      url: /how-it-works/2-act
+    - title: "Reflect"
+      url: /how-it-works/3-reflect
+    - title: "Align"
+      url: /how-it-works/4-align
+    - title: "Amplify"
+      url: /how-it-works/5-amplify
   - title: "Whos it for?"
     url: /who-its-for/whos-it-for-overview
   - title: "Fast Flow Tools & Resources"
