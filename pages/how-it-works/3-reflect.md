@@ -49,4 +49,4 @@ When we reflect openly and regularly, we do not just adapt faster, we build shar
 
 ---
 
-[Next: Align](/how-it-works/5-align)
+[Next: Align](/how-it-works/4-align)
