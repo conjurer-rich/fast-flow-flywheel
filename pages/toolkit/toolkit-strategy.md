@@ -30,6 +30,14 @@ The **Strategy** element helps define the big-picture direction that team struct
 - **💸 Investment Areas** , Where do we need to grow or focus effort?  
 - **🎯 Strategic Bets** , High-level shifts that guide structural evolution
 
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+
+## Looking to learn more about how to facilitate fast flow?
+
+[Take a look at the book](https://facilitatingfastflow.com){: target="_blank"}
+
 ## What next?
 
 - [🔄 Alignment](/toolkit/toolkit-alignment)
@@ -39,7 +47,3 @@ The **Strategy** element helps define the big-picture direction that team struct
 - [🔁 Reflection](/toolkit/toolkit-reflection)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
-
-## Want to use the Fast Flow Toolkit™️ in your organization?
-
-[Fast Flow Toolkit™️](https://fastflowtoolkit.com){: target="_blank"}

@@ -23,7 +23,7 @@ If your teams are feeling stuck, misaligned, or overburdened,but you’re not su
 
 A hands-on, collaborative engagement (1–2 weeks) that includes:
 
-### Flow Friction Radar
+### Flow Friction Discovery
 
 A structured session to surface and prioritize the signals that suggest flow is breaking down,delivery delays, handoff friction, cognitive overload, unclear ownership, and more.
 
@@ -66,7 +66,7 @@ A sense of momentum,without the overhead of a full transformation
 
 **Facilitators:** Senior practitioners with deep experience in flow, org design, and team dynamics
 
-Artifacts Delivered: Signals Radar output, Flow Decision Records, Draft Flow Roadmap
+Artifacts Delivered: Flow Friction Discovery output, Flow Decision Records, Draft Flow Roadmap
 
 ## 💬 Let’s Talk
 

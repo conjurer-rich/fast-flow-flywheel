@@ -32,7 +32,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 ## Techniques you can use right now
 
 - **User Needs Mapping** – clarify which teams are best placed to own which parts of the product
-- **Flow Friction Radar** – expose coordination overload and unclear ownership
+- **Flow Friction Discovery** – expose coordination overload and unclear ownership
 - **Flow Decision Records** – document decisions that evolve your org with your roadmap
 
 ---

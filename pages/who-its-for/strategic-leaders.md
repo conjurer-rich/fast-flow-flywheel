@@ -39,7 +39,7 @@ Organize around real value streams, capabilities, and user needs,not functional 
 
 ## What you can use today
 
-- **Flow Friction Radar** – quickly assess where flow is breaking down
+- **Flow Friction Discovery** – quickly assess where flow is breaking down
 - **User Needs Mapping** – validate or rethink team boundaries
 - **Flow Decision Playbook** – guide org design with clarity and speed
 

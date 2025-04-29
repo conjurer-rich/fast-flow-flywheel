@@ -29,13 +29,17 @@ sidebar:
 - **🛠️ Tactics to Try** - Options for evolving the structure or interaction model
 - **✅ Expected Outcomes** - What improvement looks like
 
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+
+## Looking to learn more about how to facilitate fast flow?
+
+[Take a look at the book](https://facilitatingfastflow.com){: target="_blank"}
+
 ## What next?
 
 - [🛠️ Tactics](/toolkit/toolkit-tactics)
 - [🔁 Reflection](/toolkit/toolkit-reflection)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
-
-## Want to use the Fast Flow Toolkit in your organization?
-
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}

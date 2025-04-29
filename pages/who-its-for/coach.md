@@ -33,7 +33,7 @@ But most coaching tools stop at the team level,leaving systemic issues invisible
 
 ## What You Can Use Today
 
-- Flow Friction Radar – to assess systemic friction points
+- Flow Friction Discovery – to assess systemic friction points
 - User Needs Mapping – to realign teams around purpose
 - Flow Clinics – to spark collaborative structural change
 

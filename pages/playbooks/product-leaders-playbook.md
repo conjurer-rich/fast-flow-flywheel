@@ -15,7 +15,7 @@ This playbook helps Heads of Product and product strategy leaders align teams, s
 
 ## Includes
 
-✅ Flow Friction Radar patterns for product teams
+✅ Flow Friction Discovery patterns for product teams
 
 ✅ User Needs Mapping templates with capability overlays
 

@@ -7,7 +7,7 @@ sidebar:
 classes: wide
 ---
 
-The **Flow Friction Radar** is a visual tool that helps teams evaluate and prioritize **Flow Decision Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate into Flow Decision Triggers**.
+The **Flow Friction Radar** is a visual tool that helps teams evaluate and prioritize **Flow Friction Signals**. It enables structured conversation around **which signals to act on** and **when they should escalate** into Flow Decision Triggers.
 
 ![Flow Friction Radar](/assets/images/flow-decision-radar-categories.png)
 
@@ -15,7 +15,7 @@ The **Flow Friction Radar** is a visual tool that helps teams evaluate and prior
 
 ## 🧭 What is it?
 
-The radar plots **Flow Decision Signals** on two axes:
+The radar plots **Flow Friction Signals** on two axes:
 
 - **X-Axis: Number of People Affected**  
   - Left = Localized (1 team, 1 product area)  
@@ -29,7 +29,7 @@ The radar plots **Flow Decision Signals** on two axes:
 
 ## 🧩 What are we looking for?
 
-The goal is to identify **which signals should become Flow Decision Triggers**,those that warrant a structured decision.
+The goal is to identify which signals should become **Flow Decision Triggers**, those that warrant a structured decision.
 
 These appear in the **bottom-right quadrant** of the radar:
 
@@ -84,14 +84,14 @@ These should prompt further investigation or lead directly to a **Flow Decision 
 
 - Use sticky notes or cards to place signals physically or digitally  
 - Encourage teams to move signals as their understanding evolves  
-- Run a **Radar Review** every 2–4 weeks to assess movement  
+- Run a **Flow Friction Discovery** every 2–4 weeks to assess movement  
 - Use color-coding to highlight categories (e.g., platform, ownership, feedback loops)
 
 ---
 
 ## 🎯 From signal to decision
 
-The radar doesn’t just help visualize,it helps reason.
+The radar doesn’t just help visualize, it helps reason.
 
 > “This signal keeps showing up in different teams… and it’s connected to several delivery delays. Let’s elevate it to a trigger.”
 

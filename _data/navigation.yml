@@ -40,16 +40,20 @@ side-navigation:
         url: /toolkit/toolkit-flow-clinics
       - title: "Flow Roadmap"
         url: /toolkit/toolkit-flow-roadmap
-      - title: "Flow Playbook"
-        url: /toolkit/toolkit-flow-playbook
       - title: "Fast Flow Starter Kit"
         url: /toolkit/toolkit-starter-kit
+      - title: "Sample Flow Playbook"
+        url: /toolkit/toolkit-flow-playbook
   - title: "Engagement Options"
     url: /engagements/engagement-overview
     children:
+    - title: "Flow Friction Discovery"
+      url: /engagements/flow-friction-discovery
     - title: "Kickstart Essentials"
       url: /engagements/kickstart-essentials
     - title: "Full Flywheel Rotation"
       url: /engagements/full-flywheel-rotation
     - title: "Embedded Flywheel Enablement"
       url: /engagements/embedded-flywheel-enablement
+    - title: "Custom Engagement"
+      url: /engagements/custom-engagement

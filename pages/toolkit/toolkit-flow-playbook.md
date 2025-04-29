@@ -45,9 +45,9 @@ Use a Flow Decision when you hit a structural friction point,a signal that flow 
 
 Ask yourself:
 
-“Are we making a decision that affects how value flows across people, teams, or services?”
+> “Are we making a decision that affects how value flows across people, teams, or services?”
 
-If yes,consider creating an FDR.
+If yes, consider creating an FDR.
 
 ## 4. Anatomy of a Flow Decision Record (FDR)
 
@@ -173,7 +173,7 @@ A Flow Decision Trigger is a moment where signals have accumulated,or clarity ha
 
 Triggers are thresholds, not just observations. They suggest:
 
-“We’ve seen enough to make a call, or at least explore an option.”
+> “We’ve seen enough to make a call, or at least explore an option.”
 
 Common Flow Decision Triggers:
 
@@ -199,12 +199,12 @@ You might also mark:
 - Active Decisions: In effect
 - Under Review: Being evaluated or evolved
 
-Decisions shouldn’t pile up in a backlog,they should flow, just like the work they support.
+Decisions shouldn’t pile up in a backlog, they should flow, just like the work they support.
 
 ### 🔄 Feedback Loops & Review Cadence
 
-- Review the Radar and Roadmap together in regular Flow Clinics
-- Use reflections and outcomes to refine your radar categories
+- Review the flow friction discovery results and roadmap together in regular Flow Clinics
+- Use reflections and outcomes to refine your flow friction categories
 - Track signal-to-impact patterns over time to improve foresight
 
 [⬅ Back to Overview](/toolkit/toolkit-overview)

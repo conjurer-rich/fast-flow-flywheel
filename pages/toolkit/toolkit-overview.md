@@ -41,7 +41,7 @@ The Signals element helps teams and leaders **see where flow is breaking down** 
 - **📋 Trigger Questions** - Help clarify whether a signal is present
 - **📌 Signal > Play > Tactic Mapping** - Helps teams take meaningful action
 
-Learn more about [Flow Signals](/toolkit/toolkit-flow-signals)
+Learn more about [Flow Signals](/toolkit/toolkit-signals)
 
 ## 🎯 Plays
 

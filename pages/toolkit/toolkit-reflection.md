@@ -29,6 +29,14 @@ sidebar:
 - **📈 Metric Reviews** , Using flow metrics to inform decisions  
 - **🔄 Continuous Feedback** , Making reflection a regular rhythm
 
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+
+## Looking to learn more about how to facilitate fast flow?
+
+[Take a look at the book](https://facilitatingfastflow.com){: target="_blank"}
+
 ## What next?
 
 - [🧭 Strategy](/toolkit/toolkit-strategy)
@@ -38,7 +46,3 @@ sidebar:
 - [🛠️ Tactics](/toolkit/toolkit-tactics)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
-
-## Want to use the Fast Flow Toolkit in your organization?
-
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}

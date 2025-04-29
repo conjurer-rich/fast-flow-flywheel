@@ -38,6 +38,14 @@ While **Strategy** sets direction and **Flow Decisions** drive change, **Alignme
 
 Together, these help teams **navigate complexity**, **respond to change**, and **make flow-conscious decisions** over time , without relying on big-bang reorgs or top-down planning.
 
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+
+## Looking to learn more about how to facilitate fast flow?
+
+[Take a look at the book](https://facilitatingfastflow.com){: target="_blank"}
+
 ## What next?
 
 - [📡 Signals](/toolkit/toolkit-signals)
@@ -46,7 +54,3 @@ Together, these help teams **navigate complexity**, **respond to change**, and *
 - [🔁 Reflection](/toolkit/toolkit-reflection)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
-
-## Want to use the Fast Flow Toolkit in your organization?
-
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}

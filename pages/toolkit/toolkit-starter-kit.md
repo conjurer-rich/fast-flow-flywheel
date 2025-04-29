@@ -62,11 +62,9 @@ Identify which Fast Flow tools to explore next
 
 Get the Starter Kit Now
 
-✨ It’s free.
-
-📥 Delivered instantly to your inbox.
-
-🚀 Includes editable templates and quick-start guides.
+- ✨ It’s free.
+- 📥 Delivered instantly to your inbox.
+- 🚀 Includes editable templates and quick-start guides.
 
 ## Download the Starter Kit →
 

@@ -32,7 +32,7 @@ But too often, the team structure you inherit wasn’t built for what the org is
 
 ## What you can use today
 
-- **Flow Friction Radar** – quickly assess where flow is breaking down
+- **Flow Friction Discovery** – quickly assess where flow is breaking down
 - **User Needs Mapping** – validate or rethink team boundaries
 - **Flow Decision Playbook** – guide org design with clarity and speed
 
@@ -107,7 +107,7 @@ But without a clear picture of how value flows,or where it’s blocked, it’s i
 ### Techniques you can use right now
 
 - **User Needs Mapping** – identify where boundaries should shift
-- **Flow Friction Radar** – assess where friction is slowing you down
+- **Flow Friction Discovery** – assess where friction is slowing you down
 - **Flow Clinics** – co-create decisions with those closest to the work
 
 ---

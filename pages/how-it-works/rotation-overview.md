@@ -38,7 +38,7 @@ This isn’t a one-time loop, it’s a living cycle of discovery, action, and al
 
 ### 1. Sense
 
-**Spot weak signals before they shout** - Tune into early signs of friction, misalignment, or opportunity. Use techniques like the Flow Signals Radar, feedback loops, and pattern recognition to uncover where change may be needed—before problems escalate.
+**Spot weak signals before they shout** - Tune into early signs of friction, misalignment, or opportunity. Use techniques like the Flow Friction Radar, feedback loops, and pattern recognition to uncover where change may be needed—before problems escalate.
 
 ### 2. Act
 

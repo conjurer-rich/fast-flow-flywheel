@@ -29,12 +29,16 @@ sidebar:
 - **🎯 Action** , What to actually do  
 - **✅ When to Use / Avoid** , Guidance for safe, effective application
 
+## Want to use the Fast Flow Toolkit in your organization?
+
+[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}
+
+## Looking to learn more about how to facilitate fast flow?
+
+[Take a look at the book](https://facilitatingfastflow.com){: target="_blank"}
+
 ## What next?
 
 - [🔁 Reflection](/toolkit/toolkit-reflection)
 
 [⬅ Back to toolkit overview](/toolkit/toolkit-overview)
-
-## Want to use the Fast Flow Toolkit in your organization?
-
-[Get access to the Fast Flow Toolkit](https://fastflowtoolkit.com){: target="_blank"}.
