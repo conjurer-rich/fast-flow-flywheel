@@ -45,6 +45,10 @@ When we amplify wisely, we spread hope, momentum, and practical ways to unlock f
 - Increase sharing of successful structural experiments across teams and domains.
 - Reduce resistance to change by highlighting real-world success stories.
 
+## Looking to amplify the flow in your organization?
+
+Why not try a [Full Flywheel Rotation](/engagements/full-flywheel-rotation) engagement?
+
 ---
 
 [Back to overview](/how-it-works/rotation-overview)

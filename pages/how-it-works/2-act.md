@@ -28,13 +28,16 @@ It means framing changes as flow hypotheses that can be applied, evaluated, and 
 Sensing without action is just observation.
 
 It is easy to fall into the trap of seeing the signs but feeling too uncertain, too busy, or too cautious to move.
+
 But fast flow is not about reckless change, it is about intentional movement—small, visible steps that help the organization learn and adapt.
 
 Acting does not mean rushing.
+
 It means treating every decision as a bet, something we can try, learn from, and evolve.
 It means making our structural decisions explicit, so we can reflect on them together later rather than guessing what happened.
 
 Momentum matters.
+
 When we act early and intentionally, we build the muscle memory of adaptation.
 We stop letting change happen to us and start shaping it with purpose.
 
@@ -46,5 +49,9 @@ We stop letting change happen to us and start shaping it with purpose.
 
 Acting with intention is what keeps the flywheel moving.
 Without action, sensing becomes observation without momentum.
+
+## Looking to identify the first Flow Decisions in your organization?
+
+Why not try a [Kick Start Essentials](/engagements/kick-start-essentials) engagement?
 
 [Next: Reflect](/how-it-works/3-reflect)

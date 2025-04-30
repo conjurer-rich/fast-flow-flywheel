@@ -49,4 +49,8 @@ If we cannot sense what is emerging, we risk acting blindly or too late.
 - Reduce the risk of acting too late or only after major failures occur.
 - Increase the organization's ability to adapt through earlier sensing and intervention.
 
+## Do you want to uncover flow friction in your organization?
+
+Why not try a [Flow Friction Discovery](/engagements/flow-friction-discovery) workshop?
+
 [Next step → Act](/how-it-works/2-act)

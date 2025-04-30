@@ -47,6 +47,10 @@ When we align openly and often, we strengthen trust, clarity, and collective mom
 - Increase transparency of team boundaries, responsibilities, and key interactions.
 - Reduce time lost to cross-team conflicts, duplication, and miscommunication.
 
+## Looking to align your organization around flow?
+
+Why not try a [Full Flywheel Rotation](/engagements/full-flywheel-rotation) engagement?
+
 ---
 
 [Next: Amplify](/how-it-works/5-amplify)

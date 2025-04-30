@@ -47,6 +47,10 @@ When we reflect openly and regularly, we do not just adapt faster, we build shar
 - Increase psychological safety in admitting when actions had unexpected results.
 - Reduce repeated mistakes by making invisible patterns visible and actionable.
 
+## Looking to spot signals, make a flow decision, and reflect on the outcome?
+
+Why not try a [Full Flywheel Rotation](/engagements/full-flywheel-rotation) workshop?
+
 ---
 
 [Next: Align](/how-it-works/4-align)
