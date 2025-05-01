@@ -29,7 +29,7 @@ why-faster-flow:
     image_path: /assets/images/strategic-direction.png
 ---
 
-![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg.png){: .align-right width="50%" }
+![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="50%" }
 
 Truly adaptive organizations succeed in a rapidly changing world because they are able to quickly sense, share and solve any problems that arise when their environment changes.
 
@@ -52,7 +52,7 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 A lightweight, repeatable process for adapting your structure to match the work.
 
-![Fast Flow Flywheel](/assets/images/flywheel-stages.png){: .align-center width="50%" }
+![Fast Flow Flywheel](/assets/images/flywheel-stages-whitebg-v2.png){: .align-center width="50%" }
 
 ## Designed to accelerate your path to agility, innovation, and competitive advantage
 
