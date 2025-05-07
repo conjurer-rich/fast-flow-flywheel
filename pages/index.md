@@ -15,6 +15,10 @@ header:
       btn_class: "btn--primary"
   text_color: "#F6F7F8"
 why-faster-flow:
+  - alt: "Increase strategic alignment and decision-making confidence"
+    title: "Increase strategic alignment and decision-making confidence"
+    excerpt: "Validate new organizational boundaries quickly and confidently, ensuring every decision supports your strategic priorities." 
+    image_path: /assets/images/strategic-direction.png
   - alt: "Minimize confusion and unclear ownership"
     title: "Minimize confusion and unclear ownership"
     excerpt: "Create clearly defined boundaries, ensuring teams know precisely what they're responsible for and can confidently take ownership."
@@ -23,10 +27,6 @@ why-faster-flow:
     title: "Reduce delivery slowdowns and bottlenecks"
     excerpt: "Identify hidden blockers that stall critical initiatives, enabling smoother and faster value delivery."
     image_path: /assets/images/bottlenecks.png
-  - alt: "Increase strategic alignment and decision-making confidence"
-    title: "Increase strategic alignment and decision-making confidence"
-    excerpt: "Validate new organizational boundaries quickly and confidently, ensuring every decision supports your strategic priorities." 
-    image_path: /assets/images/strategic-direction.png
 ---
 
 ![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="400px" }
