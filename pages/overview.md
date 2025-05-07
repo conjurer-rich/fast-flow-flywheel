@@ -40,7 +40,7 @@ The Fast Flow Flywheel operates as two interlocking loops that reinforce each ot
 
 ### Outer Loop: Sensing → Shaping → Sharing → Shifting
 
-This is the strategic cycle that helps organizations build awareness, co-design better structures, communicate shared intent, and evolve deliberately.
+This is the strategic cycle that helps organizations build awareness, co-design better structures, communicate shared intent, and evolve deliberately. If you are familiar with Wardley Mapping, the outer flywheel loop maps cleanly to the Observe, Orient, Decide, Act (OODA) loop. The output of the strategic cycle should feed into the inner loop.
 
 ### Inner Loop: Sense → Act → Reflect → Align → Amplify (SARAA)
 
@@ -76,7 +76,7 @@ When you run a Fast Flow Flywheel rotation in your organization, you gain:
 
 ## Want to take a closer look at the inner loop?
 
-[Learn more about a Fast Flow Flywheel Rotation](/how-it-works/rotation-overview)
+[Learn more about an Inner Flywheel Rotation](/how-it-works/rotation-overview)
 
 ## Ready to Start Spinning the Flywheel?
 

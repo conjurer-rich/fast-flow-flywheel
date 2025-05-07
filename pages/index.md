@@ -31,11 +31,11 @@ why-faster-flow:
 
 ![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="400px" }
 
-Truly adaptive organizations succeed in a rapidly changing world because they are able to quickly sense, share and solve any problems that arise when their environment changes.
+Truly adaptive organizations succeed in a rapidly changing world because they know how to sense change, shape responses, share intent, and shift with purpose.
 
 Meet the Fast Flow Flywheel™️
 
-> A simple, powerful cycle to help you diagnose, decide, and evolve.
+> A simple, powerful cycle to help you sense what’s shifting, shape better structures, share alignment, and shift with confidence.
 
 ## Why the Flywheel?
 
@@ -48,28 +48,41 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 {% include feature_row id="why-faster-flow" %}
 
-## The Four-Stage Flywheel
-
-A lightweight, repeatable process for adapting your structure to match the work.
+## The Outer Flywheel: Strategic Adaptation in Four Stages
 
 ![Fast Flow Flywheel](/assets/images/flywheel-stages-whitebg-v2.png){: .align-center width="50%" }
 
+The Fast Flow Flywheel helps you evolve your structure in sync with your strategy—without the chaos of constant reorgs.
+
+Its four-stage outer loop gives you a repeatable rhythm for structural change:
+
+- Sensing – Spot early signs of friction or misalignment
+- Shaping – Co-design potential responses and options
+- Sharing – Align people around key decisions and direction
+- Shifting – Implement purposeful changes and track progress
+
+Under the surface, each rotation builds momentum using a team-level improvement loop: Sense → Act → Reflect → Align → Amplify.
+
 ## Designed to accelerate your path to agility, innovation, and competitive advantage
 
-The Fast Flow Flywheel was explicitly built to help you:
+The Fast Flow Flywheel helps you evolve with purpose by making structural adaptation clear, collaborative, and continuous:
 
-- **Understand where you are**: Clearly visualize your organization's existing flow and team boundaries.
-- **Diagnose your flow issues**: Accurately pinpoint what’s slowing you down and holding you back.
-- **Align for success**: Confidently validate and implement structural changes, ensuring teams are naturally aligned with delivering value.
-- **Plan with clarity**: Develop feasible, clearly defined future states and roadmaps that align with your strategic vision.
+- Understand where you are → Sense flow patterns, boundaries, and emerging friction
+- Diagnose your flow issues → Shape a shared view of what's slowing teams down
+- Align for success → Share validated options and make better structural decisions
+- Plan with clarity → Shift intentionally toward future states aligned with strategy
 
 ![Fast Flow Flywheel Starter Kit](/assets/images/fast-flow-flywheel-star.png){: .align-right width="400px" }
 
 ## The engine that turns signals into momentum
 
-The Flywheel is the core mechanism facilitators use to move from sensing to doing, turning signals into decisions, and decisions into flow.
+The Flywheel connects strategy to structure through two reinforcing loops:
 
-It connects:
+The **Outer Flywheel** helps you sense, shape, share, and shift—adapting your structure to match your evolving context.
+
+The **Inner Flywheel** helps teams sense, act, reflect, align, and amplify—turning insight into momentum, one flow decision at a time.
+
+It links your system of delivery with your system of strategy:
 
 - Flow Objectives → clear direction
 - Flow Signals → friction in the system
