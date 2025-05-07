@@ -29,6 +29,6 @@ And how to support ongoing learning through reflection, alignment, and amplifica
 
 ## 👉 Want to see this book happen?
 
-Head over to [facilitatingfastflow.com](https://facilitatingfastflow.com) and add your name. If enough people are interested, I’ll start writing—and you’ll be first to hear when it’s ready.
+Head over to [facilitatingfastflow.com](https://facilitatingfastflow.com) and add your name. If enough people are interested, I’ll start writing, and you’ll be first to hear when it’s ready.
 
 Let’s build the guide we all wish we had.

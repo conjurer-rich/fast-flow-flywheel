@@ -13,7 +13,7 @@ sidebar:
 
 Flexible entry, tailored momentum. Build flow your way.
 
-The Custom Kickstart + Enablement engagement offers a right-sized starting point for organizations that want to build initial traction without the commitment of a full Flywheel rotation—plus the flexibility to grow into ongoing enablement based on outcomes and appetite.
+The Custom Kickstart + Enablement engagement offers a right-sized starting point for organizations that want to build initial traction without the commitment of a full Flywheel rotation, plus the flexibility to grow into ongoing enablement based on outcomes and appetite.
 
 We combine a light-touch kickstart to uncover flow signals and early friction points with a clear plan for supporting next steps, including the option for embedded coaching and facilitator enablement.
 

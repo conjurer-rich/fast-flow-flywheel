@@ -15,7 +15,7 @@ The Fast Flow Flywheel™️ is an opinionated approach to aligning, unblocking,
 
 One day. Clear signals. Immediate insight.
 
-A focused workshop designed to uncover where flow is breaking down and why—so you can act with clarity.
+A focused workshop designed to uncover where flow is breaking down and why, so you can act with clarity.
 
 ### What’s included in Flow Friction Discovery
 
@@ -128,7 +128,7 @@ This flexible engagement gives you a light-touch kickstart to surface blockers a
 
 ### Who is Custom Kickstart + Enablement for
 
-Teams or domains seeking an adaptive, lower-commitment way to get started—with the ability to scale based on traction and appetite.
+Teams or domains seeking an adaptive, lower-commitment way to get started, with the ability to scale based on traction and appetite.
 
 **Duration:** 2–3 weeks
 

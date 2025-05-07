@@ -22,7 +22,7 @@ Use Flow Clinics to revisit recent decisions and structural experiments together
 
 Surface what changed, what stayed stuck, and what new tensions appeared.
 
-Focus reflection on learning, not blame—create safety to name what did not work.
+Focus reflection on learning, not blame, create safety to name what did not work.
 
 Update Flow Roadmaps and Flow Decision Records with real-world insights.
 

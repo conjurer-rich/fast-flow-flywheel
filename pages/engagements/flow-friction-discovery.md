@@ -11,11 +11,11 @@ sidebar:
 
 ## 🧭 Flow Friction Discovery Workshop
 
-One day to see clearly where flow is breaking down—so you can act with confidence.
+One day to see clearly where flow is breaking down, so you can act with confidence.
 
 The Flow Friction Discovery workshop is a fast, focused diagnostic designed to surface hidden blockers, dependencies, and structural misalignments that slow down the flow of change and value across your teams. In just one day, we help you and your stakeholders build a shared, actionable understanding of where friction exists and what to do next.
 
-If you are seeing symptoms like delivery delays, unclear ownership, coordination overhead, or misaligned priorities—but cannot pinpoint the root causes—this workshop will give you the clarity you need.
+If you are seeing symptoms like delivery delays, unclear ownership, coordination overhead, or misaligned priorities, but cannot pinpoint the root causes, this workshop will give you the clarity you need.
 
 ## 🎯 What We Cover in Flow Friction Discovery
 

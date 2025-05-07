@@ -29,7 +29,7 @@ why-faster-flow:
     image_path: /assets/images/strategic-direction.png
 ---
 
-![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="50%" }
+![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="400px" }
 
 Truly adaptive organizations succeed in a rapidly changing world because they are able to quickly sense, share and solve any problems that arise when their environment changes.
 

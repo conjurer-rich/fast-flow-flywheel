@@ -12,7 +12,7 @@ sidebar:
 
 Your on-ramp to building momentum.
 
-A curated set of practical tools, templates, and insights to help you uncover friction, align teams, and take the first steps toward faster flow—without waiting for permission or launching a reorg.
+A curated set of practical tools, templates, and insights to help you uncover friction, align teams, and take the first steps toward faster flow, without waiting for permission or launching a reorg.
 
 ## Who is this for?
 
@@ -24,15 +24,15 @@ The Starter Kit is for anyone helping others make progress, including:
 - 🧱 Platform and internal service teams supporting others
 - 🧠 Leaders and change agents seeking a better path to flow
 
-If you've ever sensed friction and wondered, “How do we actually fix this?”—this kit is for you.
+If you've ever sensed friction and wondered, “How do we actually fix this?”, this kit is for you.
 
 ## What’s Inside the Kit?
 
-✅ **5 Flow Signals:** A quick-start guide to spotting common flow issues—across teams, services, and leadership.
+✅ **5 Flow Signals:** A quick-start guide to spotting common flow issues, across teams, services, and leadership.
 
 ✅ **Flow Decision Template:** A lightweight template to help you frame, document, and socialize structural decisions using the Fast Flow approach.
 
-✅ **3 Fast Flow Plays:** Battle-tested responses to common signals—ready to try with your team or co-facilitators.
+✅ **3 Fast Flow Plays:** Battle-tested responses to common signals, ready to try with your team or co-facilitators.
 
 ✅ **Intro to the Fast Flow Flywheel™️:** Understand how the Flywheel connects signals, plays, and decisions into repeatable momentum.
 
@@ -44,7 +44,7 @@ No jargon. No fluff. Just tools that help you guide and shape better flow.
 
 🔁 Modular and reusable
 
-You can apply what’s in the kit to a single team—or use it to spark broader change across your org.
+You can apply what’s in the kit to a single team, or use it to spark broader change across your org.
 
 📈 Connect small actions to big outcomes
 

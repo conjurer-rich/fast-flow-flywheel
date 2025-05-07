@@ -11,7 +11,7 @@ classes: wide
 ## Reinforce what unlocks flow
 
 Fast flow organizations do not just fix problems, they amplify what works.
-They recognize that positive change needs fuel—celebration, storytelling, and deliberate scaling.
+They recognize that positive change needs fuel, celebration, storytelling, and deliberate scaling.
 
 Amplifying is not about shouting the loudest.
 It is about making enablers visible, reinforcing good practices, and helping momentum build across the organization.
@@ -23,7 +23,7 @@ What we amplify becomes part of our culture.
 - Capture and share stories of successful flow improvements and structural evolutions.
 - Identify and codify emerging patterns that others can reuse.
 - Highlight and celebrate enabling behaviors, not just end results.
-- Scale proven practices carefully—without forcing a one-size-fits-all solution.
+- Scale proven practices carefully, without forcing a one-size-fits-all solution.
 
 ## Why Amplify?
 

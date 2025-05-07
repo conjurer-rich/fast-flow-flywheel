@@ -21,7 +21,7 @@ It means framing changes as flow hypotheses that can be applied, evaluated, and 
 - Create Flow Decisions that clearly describe the intended change, the signals prompting it, and what outcomes we are seeking.
 - Use the Advice Process to invite perspectives without slowing momentum.
 - Place decisions on a Flow Roadmap to make work-in-progress visible and manage structural change incrementally.
-- Act small first—optimize for decisions that are reversible or low-risk, especially when uncertainty is high.
+- Act small first, optimize for decisions that are reversible or low-risk, especially when uncertainty is high.
 
 ## Why Act?
 
@@ -29,7 +29,7 @@ Sensing without action is just observation.
 
 It is easy to fall into the trap of seeing the signs but feeling too uncertain, too busy, or too cautious to move.
 
-But fast flow is not about reckless change, it is about intentional movement—small, visible steps that help the organization learn and adapt.
+But fast flow is not about reckless change, it is about intentional movement, small, visible steps that help the organization learn and adapt.
 
 Acting does not mean rushing.
 
