@@ -50,7 +50,7 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 ## The Outer Flywheel: Strategic Adaptation in Four Stages
 
-![Fast Flow Flywheel](/assets/images/flywheel-stages-whitebg-v2.png){: .align-center width="50%" }
+![Fast Flow Flywheel](/assets/images/flywheel-stages-whitebg-v2.png){: .align-center width="600px" }
 
 The Fast Flow Flywheel helps you evolve your structure in sync with your strategy—without the chaos of constant reorgs.
 
