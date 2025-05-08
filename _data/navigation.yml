@@ -28,22 +28,22 @@ side-navigation:
       url: /how-it-works/5-amplify
   - title: "Whos it for?"
     url: /who-its-for/whos-it-for-overview
-  - title: "Fast Flow Tools & Resources"
-    children:
-      - title: "Facilitating Fast Flow Book"
-        url: /toolkit/facilitating-fast-flow-book
-      - title: "Fast Flow Toolkit"
-        url: /toolkit/toolkit-overview
-      - title: "Flow Friction Radar"
-        url: /toolkit/toolkit-flow-signals-radar
-      - title: "Flow Clinics"
-        url: /toolkit/toolkit-flow-clinics
-      - title: "Flow Roadmap"
-        url: /toolkit/toolkit-flow-roadmap
-      - title: "Fast Flow Starter Kit"
-        url: /toolkit/toolkit-starter-kit
-      - title: "Sample Flow Playbook"
-        url: /toolkit/toolkit-flow-playbook
+# - title: "Fast Flow Tools & Resources"
+#    children:
+#      - title: "Facilitating Fast Flow Book"
+#        url: /toolkit/facilitating-fast-flow-book
+#      - title: "Fast Flow Toolkit"
+#        url: /toolkit/toolkit-overview
+#      - title: "Flow Friction Radar"
+#        url: /toolkit/toolkit-flow-signals-radar
+#      - title: "Flow Clinics"
+#        url: /toolkit/toolkit-flow-clinics
+#      - title: "Flow Roadmap"
+#        url: /toolkit/toolkit-flow-roadmap
+#      - title: "Fast Flow Starter Kit"
+#        url: /toolkit/toolkit-starter-kit
+#      - title: "Sample Flow Playbook"
+#        url: /toolkit/toolkit-flow-playbook
   - title: "Engagement Options"
     url: /engagements/engagement-overview
     children:

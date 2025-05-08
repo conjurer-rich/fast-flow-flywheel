@@ -79,7 +79,7 @@ But if your team structure doesn’t match how value flows, your roadmap is alwa
 
 or
 
-[Download the Playbook for Product Leaders](/playbooks/product-leader-playbook)
+[Download the Playbook for Product Leaders](/playbooks/product-leaders-playbook)
 
 ---
 
