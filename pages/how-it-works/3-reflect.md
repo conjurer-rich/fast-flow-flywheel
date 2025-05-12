@@ -49,7 +49,7 @@ When we reflect openly and regularly, we do not just adapt faster, we build shar
 
 ## Looking to spot signals, make a flow decision, and reflect on the outcome?
 
-Why not try a [Full Flywheel Rotation](/engagements/full-flywheel-rotation) workshop?
+Why not try a [Full Flywheel Rotation](/engagements/full-flywheel-rotation) engagement?
 
 ---
 
