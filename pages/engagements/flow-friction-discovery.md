@@ -64,7 +64,7 @@ The workshop works best when it brings together diverse perspectives from across
 - Format: 1 day (in-person or remote)
 - Duration: 6–7 hours including breaks
 - Location: Your site or remote via Zoom/Miro
-- Investment: From £5k (excluding VAT and travel/accommodation)
+- Investment: From £7k (excluding VAT and travel/accommodation)
 
 [Book a Discovery Call →](/contact)
 
