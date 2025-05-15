@@ -30,7 +30,7 @@ A SARAA Loop Rotation helps you step back, see what’s really going on, and mak
 
 ## How it works
 
-The Inner Flywheel rotates through five connected practices that help organizations sense tensions, respond with intention, and continuously evolve team structures to unlock flow.
+The SARAA Loop rotates through five connected elements that help organizations sense tensions, respond with intention, and continuously evolve team structures to unlock flow.
 
 This isn’t a one-time loop, it’s a living cycle of discovery, action, and alignment.
 
