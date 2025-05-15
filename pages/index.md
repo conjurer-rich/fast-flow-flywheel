@@ -1,11 +1,15 @@
 ---
 permalink: /
 layout: splash
-title: "Accelerate your organization’s flow of value"
+title: "Make Strategy Deliverable"
+description: Connect strategic intent with adaptive execution using the Fast Flow Flywheel—a two-loop system that bridges strategy and structure for faster flow of value.
 excerpt: > 
-  Gain **Clarity**. Build **Confidence**. Cultivate **Evolution**.  
+  Bridge **strategic intent** with **adaptive execution**  
+
+  —without the chaos of big-bang reorgs.  
+
+  Your system for accelerating flow, *one decision at a time*.
   
-  Your system for accelerating flow, one decision at a time.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
@@ -29,13 +33,11 @@ why-faster-flow:
     image_path: /assets/images/bottlenecks.png
 ---
 
-![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: .align-right width="400px" }
+![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v3.png){: .align-right width="400px" }
 
-Truly adaptive organizations succeed in a rapidly changing world because they know how to sense change, shape responses, share intent, and shift with purpose.
+In a fast-changing world, the ability to adapt is your competitive edge. But most organizations struggle to translate strategic insight into meaningful structural change.  
 
-Meet the Fast Flow Flywheel™️
-
-> A simple, powerful cycle to help you sense what’s shifting, shape better structures, share alignment, and shift with confidence.
+The **Fast Flow Flywheel** gives you a practical, repeatable way to connect **strategy** with **structure**, so you can evolve how your teams work—**in sync with your strategic priorities** and **in response to real-world signals**.
 
 ## Why the Flywheel?
 
@@ -48,62 +50,74 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 {% include feature_row id="why-faster-flow" %}
 
-## The Outer Flywheel: Strategic Adaptation in Four Stages
+## A Dual-Loop System for Fast Flow
 
-![Fast Flow Flywheel](/assets/images/flywheel-stages-whitebg-v2.png){: .align-center width="600px" }
+![Fast Flow Flywheel](/assets/images/flywheel-ooda-to-saraa.png){: .align-right width="600px" }
 
-The Fast Flow Flywheel helps you evolve your structure in sync with your strategy—without the chaos of constant reorgs.
+To move faster, you don’t need more chaos.  
+You need a better loop.
 
-Its four-stage outer loop gives you a repeatable rhythm for structural change:
+We combine two proven cycles to help you sense, decide, and adapt with clarity:
 
-- Sensing – Spot early signs of friction or misalignment
-- Shaping – Co-design potential responses and options
-- Sharing – Align people around key decisions and direction
-- Shifting – Implement purposeful changes and track progress
+### 1. OODA Loop (Outer Loop – Strategy)
 
-Under the surface, each rotation builds momentum using a team-level improvement loop: Sense → Act → Reflect → Align → Amplify.
+Used in Wardley Mapping and military doctrine, OODA helps you:
 
-## Designed to accelerate your path to agility, innovation, and competitive advantage
+- **Observe** market shifts and emerging needs  
+- **Orient** using maps, capabilities, and doctrine  
+- **Decide** where to play and what to prioritize  
+- **Act** with focus and intent  
 
-The Fast Flow Flywheel helps you evolve with purpose by making structural adaptation clear, collaborative, and continuous:
+> This is how you navigate a changing landscape.  
 
-- Understand where you are → Sense flow patterns, boundaries, and emerging friction
-- Diagnose your flow issues → Shape a shared view of what's slowing teams down
-- Align for success → Share validated options and make better structural decisions
-- Plan with clarity → Shift intentionally toward future states aligned with strategy
+But acting at a strategic level isn’t enough.
 
-![Fast Flow Flywheel Starter Kit](/assets/images/fast-flow-flywheel-star.png){: .align-right width="400px" }
+### 2. SARAA Loop (Inner Loop – Structure)
 
-## The engine that turns signals into momentum
+The **Fast Flow Flywheel** applies the SARAA loop to drive operational adaptation:
 
-The Flywheel connects strategy to structure through two reinforcing loops:
+- **Sense** signals and frictions in the flow of value  
+- **Act** on what you learn through safe-to-fail experiments  
+- **Reflect** to understand what’s working  
+- **Align** teams, services, and leadership around emerging insights  
+- **Amplify** successful patterns to scale what works  
 
-The **Outer Flywheel** helps you sense, shape, share, and shift—adapting your structure to match your evolving context.
+> This is how you organize to deliver at speed.
 
-The **Inner Flywheel** helps teams sense, act, reflect, align, and amplify—turning insight into momentum, one flow decision at a time.
+Together, these loops help you **make better decisions** and **move with momentum**.
 
-It links your system of delivery with your system of strategy:
+## From Friction to Flow, One Decision at a Time
 
-- Flow Objectives → clear direction
-- Flow Signals → friction in the system
-- Flow Plays → repeatable responses
-- Flow Decisions → decentralized alignment
-- Flow Roadmaps → visible progress
+![Fast Flow Flywheel Starter Kit](/assets/images/flywheel-in-action-whitebg.gif){: .align-right width="500px" }
+
+You don’t need a big-bang transformation.  
+You need a way to **see what’s slowing you down**, **decide what to adjust**, and **move forward together**.
+
+The Fast Flow Flywheel helps you:
+
+- Surface signals from the teams closest to the work  
+- Spot where structure is getting in the way of strategy  
+- Make structural decisions visible and testable  
+- Align teams around shared direction and learning  
+- Build momentum toward faster, more confident delivery
 
 [Learn how the Flywheel works →](/overview)
 
-## Who is this for?
+## Built for Real-World Complexity
 
-The Fast Flow Flywheel is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
+Most frameworks ask you to redesign everything.  
+We help you work with what you’ve got—and evolve from there.
 
-- [Strategic Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-strategic-leaders)
-- [Product Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-product-leaders)
-- [Org Designers and Transformation Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-org-designers-and-transformation-leaders)
-- [Platform Team Leaders](/who-its-for/whos-it-for-overview#fast-flow-for-platform-team-leaders)
-- [Agile Coaches and Facilitators](/who-its-for/whos-it-for-overview#fast-flow-for-agile-coaches-and-facilitators)
+Our approach works with your existing:
 
-## Take the next step toward better flow
+- **Strategic cycles** (e.g. Wardley Mapping, OKRs, PI Planning)  
+- **Delivery frameworks** (e.g. Agile, SAFe, DevOps)  
+- **Team structures** (including Platform and Enabling teams)
 
-Ready to unlock your organization's true potential and achieve faster, smoother, strategically aligned flow?
+It doesn’t replace your current ways of working.  
+It helps you make them flow better.
 
-[Get in touch](/contact) to learn how the Faster Flow Flywheel can transform the way your organization delivers value.
+## Start Where You Are
+
+Ready to move from friction to flow?  
+[Book a call](/contact) to begin applying the Flywheel to your organization.

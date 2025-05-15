@@ -1,5 +1,5 @@
 ---
-title: "What’s an Inner Flywheel Rotation?"
+title: "What’s in a SARAA Loop Rotation?"
 permalink: /how-it-works/rotation-overview
 layout: single
 author_profile: false
@@ -8,9 +8,9 @@ sidebar:
   nav: side-navigation
 ---
 
-![Flywheel Rotation](/assets/images/inner-flywheel-whitebg-v2.png){: .align-center width="400px"}
+![Flywheel Rotation](/assets/images/fast-flow-flywheel-white-bg-v3.png){: .align-center width="400px"}
 
-An Inner Flywheel Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
+An SARAA Loop Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
 
 It helps you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
 
@@ -26,7 +26,7 @@ Many organizations feel the symptoms:
 
 > Reorgs don’t solve the real issues
 
-An Inner Flywheel Rotation helps you step back, see what’s really going on, and make a focused, safe-to-try decision that improves flow. Each rotation builds learning and confidence, without disruption.
+A SARAA Loop Rotation helps you step back, see what’s really going on, and make a focused, safe-to-try decision that improves flow. Each rotation builds learning and confidence, without disruption.
 
 ## How it works
 
@@ -46,7 +46,7 @@ This isn’t a one-time loop, it’s a living cycle of discovery, action, and al
 
 ## Who it's for
 
-Inner Flywheel Rotations are designed for:
+SARAA Loop Rotations are designed for:
 
 - Product and engineering leaders unsure what to fix next
 - Teams who feel stuck, overloaded, or unclear on priorities
@@ -56,7 +56,7 @@ Whether you're just starting or already in motion, a rotation helps you build th
 
 ## Looking to find out more?
 
-Take a look at a first step in an Inner Flywheel Rotation: [Sense](/how-it-works/1-sense).
+Take a look at a first step in an SARAA Loop Rotation: [Sense](/how-it-works/1-sense).
 
 ## Ready to get your flywheel turning?
 

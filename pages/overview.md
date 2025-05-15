@@ -8,79 +8,119 @@ sidebar:
 classes: wide
 ---
 
-![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v2.png){: style="width: 400px;" .align-center}
+![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v3.png){: style="width: 400px;" .align-center}
 
 ## What Is the Fast Flow Flywheel™️?
 
-The Fast Flow Flywheel is a practical, systems-informed approach to evolving your organizational structure, team interactions, and decision-making to enable faster, more sustainable flow of value.
+The Fast Flow Flywheel is a practical, systems-informed approach to connecting strategic intent with adaptive execution.  
+It helps you evolve your organizational structure, team interactions, and decision-making so you can deliver value faster—and with greater confidence.
 
-At its heart, the Flywheel helps you answer a vital question:
+At its core, the Flywheel helps you answer a critical question:
 
 > “Are our current teams, services, and structures helping, or hindering, our ability to deliver value quickly and consistently?”
 
-Rather than prescribing a one-size-fits-all solution, the Flywheel guides you through a repeatable cycle of discovery, validation, and adaptation, making it easier to spot what’s getting in the way of flow, test new options, and make better structural decisions over time.
+Rather than prescribing a fixed target state, the Flywheel guides you through an ongoing cycle of sensing, adapting, and learning—enabling you to evolve structure in sync with strategy.
+
+---
 
 ## Why Organizations Use the Flywheel
 
-Most organizations don’t suffer from a lack of ambition. They suffer from misaligned teams, unclear ownership, and reorgs that fail to tackle real blockers to flow.
+Most organizations don’t lack ambition.  
+They lack feedback-rich ways to evolve how they work.
 
 The Flywheel helps organizations:
 
-✅ Reduce friction and delays caused by poorly defined team boundaries  
-✅ Increase alignment between strategic priorities and delivery structures  
-✅ Spot and resolve structural bottlenecks before they become full-blown failures  
-✅ Improve decision-making by recording and evaluating structural changes as Flow Decisions  
-✅ Design for adaptability, not just efficiency—ensuring teams evolve as needs change  
+✅ Reduce friction and delays caused by misaligned team boundaries  
+✅ Increase alignment between strategy and structure  
+✅ Spot and address structural bottlenecks before they derail delivery  
+✅ Improve decision-making by recording and reviewing Flow Decisions  
+✅ Design for adaptability, not just efficiency—so teams evolve as needs change  
+
+---
 
 ## How the Flywheel Works
 
-The Fast Flow Flywheel operates as two interlocking loops that reinforce each other over time:
+The Fast Flow Flywheel operates as two interlocking loops:
 
-![Fast Flow Flywheel](/assets/images/stages/outer-and-inner-loops.png){: .align-center}
+![Fast Flow Flywheel](/assets/images/stages/outer-and-inner-loops-v2.png){: .align-center}
 
-### Outer Loop: Sensing → Shaping → Sharing → Shifting
+### Outer Loop: Strategic Navigation with the OODA Loop
 
-This is the strategic cycle that helps organizations build awareness, co-design better structures, communicate shared intent, and evolve deliberately. If you are familiar with Wardley Mapping, the outer flywheel loop maps cleanly to the Observe, Orient, Decide, Act (OODA) loop. The output of the strategic cycle should feed into the inner loop.
+The outer loop of the Flywheel is grounded in the **OODA loop** (Observe, Orient, Decide, Act), a proven model for navigating uncertainty.  
+Popularized in military strategy and Wardley Mapping, OODA helps leaders:
 
-### Inner Loop: Sense → Act → Reflect → Align → Amplify (SARAA)
+- **Observe** the environment, including market shifts and user needs  
+- **Orient** using maps, capabilities, and doctrine  
+- **Decide** where to focus based on evolving signals  
+- **Act** with intent, feeding priorities into the inner loop
 
-This is the continuous improvement cycle used within each rotation or initiative, focused on team-level experiments and learning.
+This loop supports strategic sensing and prioritization—helping you respond to change with clarity, not chaos.
 
-Together, these loops generate compounding momentum, small wins build confidence, shared language improves alignment, and teams become better equipped to adapt with purpose.
+### Inner Loop: Structural Adaptation with SARAA
+
+The inner loop is where strategy becomes structure.  
+We use the **SARAA loop** (Sense, Act, Reflect, Align, Amplify) to adapt teams, services, and interactions in response to real-world feedback:
+
+- **Sense** friction, flow signals, and misalignments  
+- **Act** by running safe-to-fail structural experiments  
+- **Reflect** to understand what’s working and why  
+- **Align** across teams, leadership, and strategy  
+- **Amplify** successful patterns to scale what works
+
+Together, the outer and inner loops create a feedback-rich system that builds momentum and alignment over time.
+
+> **💡 Making “Optimize for Flow” Actionable**
+>
+> In Wardley Mapping, “Optimize for Flow” is a core doctrinal principle—guiding organizations to structure themselves for speed, learning, and reduced friction.
+>
+> The Fast Flow Flywheel brings this principle to life.
+> It provides the **operational loop** (SARAA) and decision-making scaffolding needed to evolve your structure and ways of working in support of strategic flow.
+>
+> It doesn’t replace mapping. It helps you act on what your maps reveal.
+
+---
 
 ## Who It’s For
 
-The Fast Flow Flywheel is designed for job executors like transformation leaders, platform leads, org designers, and change agents, along with their supporting enablers in coaching, enablement, or architecture roles.
+The Fast Flow Flywheel is designed for job executors like transformation leaders, platform leads, org designers, and change agents—alongside supporting enablers in architecture, enablement, and coaching roles.
 
-It also provides buyers, CTOs, VPs of Engineering, Heads of Transformation, and other stakeholders with a clear, credible path to delivering faster, more predictable value at scale.
+It also gives buyers, CTOs, VPs of Engineering, and Heads of Transformation a structured, credible way to evolve their organization for faster, more predictable value delivery.
+
+---
 
 ## Common Triggers That Signal It’s Time for the Flywheel
 
 You might be ready for the Fast Flow Flywheel if you’ve noticed:
 
-❌ Teams drowning in cognitive load or context-switching  
-❌ Repeated delivery delays despite “Agile” practices  
-❌ Reorgs that shuffle boxes without solving real problems  
-❌ Unclear ownership of critical services or capabilities  
-❌ Strategy that isn’t reflected in day-to-day delivery  
+❌ Teams overloaded with cognitive load or support work  
+❌ “Agile” delivery still plagued by delays and dependencies  
+❌ Reorgs that reshuffle charts but don’t resolve root causes  
+❌ Unclear ownership of services, capabilities, or outcomes  
+❌ A disconnect between strategy and how teams actually operate
+
+---
 
 ## What You Get
 
 When you run a Fast Flow Flywheel rotation in your organization, you gain:
 
 ✅ A clear view of current team and service boundaries  
-✅ A visual map of user needs and business capabilities  
+✅ A shared understanding of user needs and business capabilities  
 ✅ A set of validated Flow Decisions to guide structural change  
-✅ A living Flow Roadmap to track progress and keep momentum  
-✅ A shared language and process for making better org design decisions—together  
+✅ A living Flow Roadmap to track and evolve decisions over time  
+✅ A practical, shared process for improving how you organize to deliver
+
+---
 
 ## Want to take a closer look at the inner loop?
 
-[Learn more about an Inner Flywheel Rotation](/how-it-works/rotation-overview)
+[Learn more about the SARAA loop](/how-it-works/rotation-overview)
+
+---
 
 ## Ready to Start Spinning the Flywheel?
 
-Whether you're navigating a platform redesign, team topologies adoption, or broader org transformation, the Flywheel helps you build flow into your operating model, one signal, one decision at a time.
+Whether you're navigating a platform redesign, applying Team Topologies, or tackling broader org transformation, the Flywheel helps you build flow into your operating model—one signal, one decision at a time.
 
 [Book a Discovery Call](/contact)
 
