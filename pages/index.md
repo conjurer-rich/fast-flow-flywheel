@@ -52,7 +52,7 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 ## A Dual-Loop System for Fast Flow
 
-![Fast Flow Flywheel](/assets/images/flywheel-ooda-to-saraa.png){: .align-right width="600px" }
+![Fast Flow Flywheel](/assets/images/flywheel-OODA-to-SARAA.png){: .align-right width="600px" }
 
 To move faster, you don’t need more chaos.  
 You need a better loop.
