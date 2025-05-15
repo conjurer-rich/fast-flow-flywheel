@@ -10,7 +10,7 @@ sidebar:
 
 ![Flywheel Rotation](/assets/images/fast-flow-flywheel-white-bg-v3.png){: .align-center width="400px"}
 
-An SARAA Loop Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
+A SARAA Loop Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
 
 It helps you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
 
