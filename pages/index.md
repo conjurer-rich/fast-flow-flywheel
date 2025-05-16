@@ -52,7 +52,7 @@ The Fast Flow Flywheel gives you a practical loop for evolving how teams and ser
 
 ## A Dual-Loop System for Fast Flow
 
-![Fast Flow Flywheel](/assets/images/flywheel-OODA-to-SARAA.png){: .align-right width="600px" }
+![Fast Flow Flywheel](/assets/images/flywheel-OODA-to-SARAA-v2.png){: .align-right width="600px" }
 
 To move faster, you don’t need more chaos.  
 You need a better loop.
@@ -88,7 +88,7 @@ Together, these loops help you **make better decisions** and **move with momentu
 
 ## From Friction to Flow, One Decision at a Time
 
-![Fast Flow Flywheel Starter Kit](/assets/images/flywheel-in-action-whitebg.gif){: .align-right width="500px" }
+![Fast Flow Flywheel Starter Kit](/assets/images/flywheel-in-action-whitebg.gif){: .align-center width="800px" }
 
 You don’t need a big-bang transformation.  
 You need a way to **see what’s slowing you down**, **decide what to adjust**, and **move forward together**.
