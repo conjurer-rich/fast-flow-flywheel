@@ -88,7 +88,7 @@ Together, these loops help you **make better decisions** and **move with momentu
 
 ## From Friction to Flow, One Decision at a Time
 
-![Fast Flow Flywheel Starter Kit](/assets/images/flywheel-in-action-whitebg.gif){: .align-center width="800px" }
+![Fast Flow Flywheel Starter Kit](/assets/images/flywheel-in-action-bluebg.gif){: .align-center width="100%" }
 
 You don’t need a big-bang transformation.  
 You need a way to **see what’s slowing you down**, **decide what to adjust**, and **move forward together**.
