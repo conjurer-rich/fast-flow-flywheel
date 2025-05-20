@@ -22,6 +22,8 @@ steps:
     excerpt: "Create a clear path forward for your organization."
 ---
 
+![Flow Friction Discovery](/assets/images/engagements/flow-friction-discovery.gif){: .align-center width="100%"}
+
 One day to see clearly where flow is breaking down, so you can act with confidence.
 
 The Flow Friction Discovery workshop is a fast, focused diagnostic designed to surface hidden blockers, dependencies, and structural misalignments that slow down the flow of change and value across your teams. In just one day, we help you and your stakeholders build a shared, actionable understanding of where friction exists and what to do next.

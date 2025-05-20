@@ -24,9 +24,9 @@ steps:
     excerpt: "Create a clear path forward for your organization."
 ---
 
-A flexible, focused starting point to test the flywheel in action
+![Early Traction](/assets/images/engagements/early-traction.gif){: .align-center width="100%"}
 
-![Early Traction](/assets/images/engagements/flywheel-kickstart-essentials.png){: .align-center width="300px"}
+A flexible, focused starting point to test the flywheel in action
 
 ## Start where you are. Build early traction.
 

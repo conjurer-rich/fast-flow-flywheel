@@ -13,7 +13,7 @@ redirect_from:
 
 Build the muscle for structural evolution.
 
-![Sustained Rotation](/assets/images/engagements/embedded-flywheel-enablement.png){: .align-center width="300px"}
+![Sustained Rotation](/assets/images/engagements/sustained-rotation.gif){: .align-center width="100%"}
 
 ## ♻️ Turn your first flywheel rotation into a repeatable rhythm
 

@@ -36,9 +36,9 @@ steps:
     excerpt: "Create a clear path forward for your organization."
 ---
 
-A focused engagement to align, unblock, and activate your path to faster flow.
+![First Rotation](/assets/images/engagements/first-rotation.gif){: .align-center width="100%"}
 
-![Flywheel Kickstarter](/assets/images/flywheel-kickstarter.png){: .align-center width="30%"}
+A focused engagement to align, unblock, and activate your path to faster flow.
 
 A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel™️,from sensing to decision-making to strategic alignment and roadmap creation.
 

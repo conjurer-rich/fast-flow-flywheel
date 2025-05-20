@@ -15,6 +15,8 @@ The **Fast Flow Flywheel™️** is an approach to organizational evolution that
 
 ## 🧭 Flow Friction Discovery
 
+![Flow Friction Discovery](/assets/images/engagements/flow-friction-discovery.gif){: .align-center width="100%"}
+
 **One day. Clear signals. Immediate insight.**
 
 A focused workshop designed to uncover where flow is breaking down and why, so you can act with clarity.
@@ -40,7 +42,7 @@ Busy teams or leaders needing fast insight before committing to bigger change.
 
 ## 🚧 Early Traction
 
-![Early Traction](/assets/images/engagements/flywheel-kickstart-essentials.png){: .align-right width="300px"}
+![Early Traction](/assets/images/engagements/early-traction.gif){: .align-center width="100%"}
 
 **A low-commitment way to explore the approach.**
 
@@ -66,7 +68,7 @@ Teams or leaders wanting to explore the flywheel approach with minimal overhead.
 
 ## 🌀 First Rotation
 
-![First Rotation](/assets/images/engagements/full-flywheel-rotation.png){: .align-right width="300px"}
+![First Rotation](/assets/images/engagements/first-rotation.gif){: .align-center width="100%"}
 
 **The first full turn of the flywheel.**
 
@@ -94,7 +96,7 @@ Organizations looking for a decisive first step toward adaptive structure and fa
 
 ## ♻️ Sustained Rotation
 
-![Sustained Rotation](/assets/images/engagements/embedded-flywheel-enablement.png){: .align-right width="300px"}
+![Sustained Rotation](/assets/images/engagements/sustained-rotation.gif){: .align-center width="100%"}
 
 **Sustain the rhythm. Build internal capability.**
 
