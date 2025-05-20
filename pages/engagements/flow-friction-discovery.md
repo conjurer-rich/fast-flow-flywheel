@@ -17,9 +17,9 @@ steps:
     title: "2. Identify blockers to flow"
     excerpt: "Identify and address bottlenecks that slow down value delivery."
   - image_path: /assets/images/faster-flow-practices/define-a-flow-roadmap.png
-    alt: "Define a flow decision roadmap"
-    title: "3. Define a flow decision roadmap"
-    excerpt: "Create a clear path forward for your organization."
+    alt: "Identify potential flow decisions"
+    title: "3. Identify potential flow decisions"
+    excerpt: "Identify potential flow decisions that could help you achieve faster flow."
 ---
 
 ![Flow Friction Discovery](/assets/images/engagements/flow-friction-discovery.gif){: .align-center width="100%"}

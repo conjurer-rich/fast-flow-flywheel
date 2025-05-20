@@ -18,9 +18,21 @@ steps:
     alt: "Identify blockers to flow"
     title: "2. Identify blockers to flow"
     excerpt: "Identify and address bottlenecks that slow down value delivery."
+  - image_path: /assets/images/faster-flow-practices/find-natural-team-boundaries.png
+    alt: "Find new team boundaries"
+    title: "3. Find new team boundaries"
+    excerpt: "Explore and identify the natural boundaries within your organization."
+  - image_path: /assets/images/faster-flow-practices/validate-potential-boundaries.png
+    alt: "Validate candidate boundaries"
+    title: "4. Validate candidate boundaries"
+    excerpt: "Test and validate proposed organizational changes before implementation."
+  - image_path: /assets/images/faster-flow-practices/plan-feasible-futures.png
+    alt: "Explore feasible futures"
+    title: "5. Explore feasible futures"
+    excerpt: "Identify feasible options for how your organization might evolve."
   - image_path: /assets/images/faster-flow-practices/define-a-flow-roadmap.png
     alt: "Define a flow decision roadmap"
-    title: "3. Define a flow decision roadmap"
+    title: "6. Define a flow decision roadmap"
     excerpt: "Create a clear path forward for your organization."
 ---
 
