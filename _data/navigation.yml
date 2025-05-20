@@ -28,6 +28,8 @@ side-navigation:
       url: /how-it-works/5-amplify
   - title: "Whos it for?"
     url: /who-its-for/whos-it-for-overview
+  - title: "Glossary"
+    url : /glossary
 # - title: "Fast Flow Tools & Resources"
 #    children:
 #      - title: "Facilitating Fast Flow Book"
@@ -49,11 +51,11 @@ side-navigation:
     children:
     - title: "Flow Friction Discovery"
       url: /engagements/flow-friction-discovery
-    - title: "Kickstart Essentials"
-      url: /engagements/kickstart-essentials
-    - title: "Full Flywheel Rotation"
-      url: /engagements/full-flywheel-rotation
-    - title: "Embedded Flywheel Enablement"
-      url: /engagements/embedded-flywheel-enablement
-    - title: "Custom Engagement"
-      url: /engagements/custom-engagement
+    - title: "Early Traction"
+      url: /engagements/early-traction
+    - title: "First Rotation"
+      url: /engagements/first-rotation
+    - title: "Sustained Rotation"
+      url: /engagements/sustained-rotation
+    - title: "Custom Kickstart"
+      url: /engagements/custom-kickstart

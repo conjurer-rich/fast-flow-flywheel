@@ -44,6 +44,44 @@ This isn’t a one-time loop, it’s a living cycle of discovery, action, and al
 - Documented learning to guide what’s next
 - A taste of what continuous org evolution can feel like
 
+## A Real World Example: Kickstarting Blue Lagoon's Fast Flow Flywheel
+
+![Blue Lagoon Fast Flow Flywheel](/assets/images/customers/blue-lagoon.png){: .align-center }
+
+Between October 2024 and January 2025, as part of an engagement with the core team at [Team Topologies](https://teamtopologies.com/), [Rich Allen](https://www.linkedin.com/in/richardallen/) and colleague [Erica Engelen](https://www.linkedin.com/in/ericaengelen/) (both [Team Topologies Valued Practitioners](https://teamtopologies.com/ttvp)), worked with Blue Lagoon, a fast-growing Icelandic wellness brand, to lay the foundations for a more adaptive, flow-oriented organization. Although the initial engagement was not framed as a Fast Flow Flywheel engagement, the approach they took captures the essence of the Sense and Act phases.
+
+🧭 Sense: Making Friction Visible
+
+The engagement began by helping Blue Lagoon sense what was slowing their flow of value. Through an intensive 3-day on-site workshop and a series of Enable & Elevate sessions, we surfaced:
+
+- Repeated coordination pain between teams  
+- Unclear ownership boundaries
+- Cognitive overload in critical roles
+- Fragmented understanding of user needs
+
+They introduced Team Topologies core principles and used techniques like [User Needs Mapping](https://www.teamtopologies.com/unm) and [Team Interaction Modelling](https://www.teamtopologies.com/tim) to give leaders and teams a clearer picture of how work was really flowing, and where it wasn’t.
+
+⚙️ Act: Taking Structural Steps
+
+Once key signals were visible, they supported Blue Lagoon in acting on them. Teams co-designed and validated new boundaries using:
+
+- Fracture Planes to brainstorm and explore potential ownership boundaries
+- Team Interaction Modelling to explore feasible futures
+- [Independent Service Heuristics](https://teamtopologies.com/ish) to assess viability of team structure options
+- Lightweight evolution tactics like defining Team APIs to reduce overload and clarify responsibilities
+
+This resulted in a set of Flow Decisions to define target team structures that better aligned with value delivery and were achievable without needing a full re-org. They left Blue Lagoon having built shared language and momentum for change.
+
+🔄 What’s Next: Reflect, Align, Amplify
+
+Alongside the engagement, Blue Lagoon's C-Level executive team were exploring their strategic intent and direction for the coming year (essentially the outer OODA Loop of the Fast Flow Flywheel). Later this year, they hope to return to support the next phases:
+
+- **Reflect:** Did the changes have the intended effect? What new signals are emerging?
+- **Align:** How do they connect structural evolution to evolving strategy?
+- **Amplify:** Which practices, platforms, or plays should they double down on?
+
+By revisiting the flywheel together, they’ll seek to help Blue Lagoon evolve with intent, scaling what works, sensing what’s shifting, and aligning teams around what matters most.
+
 ## Who it's for
 
 SARAA Loop Rotations are designed for:

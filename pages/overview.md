@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-![Fast Flow Flywheel](/assets/images/fast-flow-flywheel-white-bg-v3.png){: style="width: 400px;" .align-center}
+![Fast Flow Flywheel](/assets/images/flywheel-in-action-bluebg.gif){: .align-center width="100%"}
 
 ## What Is the Fast Flow Flywheel™️?
 

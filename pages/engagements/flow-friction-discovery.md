@@ -7,9 +7,20 @@ author_profile: false
 classes: wide
 sidebar:
   nav: side-navigation
+steps:
+  - image_path: /assets/images/faster-flow-practices/understand-current-landscape.png
+    alt: "Understand the current Landscape"
+    title: "1. Understand the current landscape"
+    excerpt: "Visualize and understand your organization's current flow patterns and boundaries."
+  - image_path: /assets/images/faster-flow-practices/identify-blockers-to-flow.png
+    alt: "Identify blockers to flow"
+    title: "2. Identify blockers to flow"
+    excerpt: "Identify and address bottlenecks that slow down value delivery."
+  - image_path: /assets/images/faster-flow-practices/define-a-flow-roadmap.png
+    alt: "Define a flow decision roadmap"
+    title: "3. Define a flow decision roadmap"
+    excerpt: "Create a clear path forward for your organization."
 ---
-
-## 🧭 Flow Friction Discovery Workshop
 
 One day to see clearly where flow is breaking down, so you can act with confidence.
 
@@ -30,6 +41,8 @@ If you are seeing symptoms like delivery delays, unclear ownership, coordination
 
 - **Trigger Identification**  
   Identify where structural or interaction changes might remove friction or accelerate flow.
+
+{% include feature_row id="steps" %}
 
 ## 🧰 What You Receive
 
