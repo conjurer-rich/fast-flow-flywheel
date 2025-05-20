@@ -49,7 +49,7 @@ side-navigation:
   - title: "Engagement Options"
     url: /engagements/engagement-overview
     children:
-    - title: "Flow Friction Discovery"
+    - title: "Friction Discovery"
       url: /engagements/flow-friction-discovery
     - title: "Early Traction"
       url: /engagements/early-traction
