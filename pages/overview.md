@@ -124,4 +124,4 @@ Whether you're navigating a platform redesign, applying Team Topologies, or tack
 
 [Book a Discovery Call](/contact)
 
-Or learn more about how to [Get your Flywheel Spinning](/engagements/kickstart-essentials)
+Or learn more about how to [Get your Flywheel Spinning](/engagements/engagement-overview)

@@ -28,30 +28,23 @@ This is where faster flow becomes a habit, not a one-time event.
 ## 🚀 Why Sustained Rotation?
 
 Most organizations don’t fail because they can’t spot problems.
-They fail because they don’t know how to act on them,consistently and collaboratively.
+They fail because they don’t know how to act on them, consistently and collaboratively.
 
 Sustained Rotation gives you:
 
-A cadence of Flow Clinics and Roadmap reviews
-
-Ongoing guidance to refine boundaries, ownership, and interactions
-
-Coaching to help internal facilitators and leaders take the wheel
-
-A culture of structural learning,not structural inertia
+- A cadence of Flow Clinics and Roadmap reviews
+- Ongoing guidance to refine boundaries, ownership, and interactions
+- Coaching to help internal facilitators and leaders take the wheel
+- A culture of structural learning, not structural inertia
 
 ## 🔄 What’s Included
 
 A flexible, quarterly rhythm of support tailored to your teams and context. Typically includes:
 
-✅ Quarterly Flywheel Rotations
-
-✅ Flow Friction Radar updates
-
-✅ New or evolving Flow Decisions
-
-✅ Roadmap adjustments and reprioritization
-
+✅ Quarterly Flywheel Rotations  
+✅ Flow Friction Radar updates  
+✅ New or evolving Flow Decisions  
+✅ Roadmap adjustments and reprioritization  
 ✅ Reflection sessions to assess what’s working and what’s next
 
 ## 🛠️ Facilitator Enablement & Coaching
@@ -90,11 +83,10 @@ A flexible, quarterly rhythm of support tailored to your teams and context. Typi
 - **Delivery:** Remote or hybrid
 - **Cadence:** Quarterly, with monthly check-ins if needed
 - **Scope:** Defined quarterly objectives aligned to strategic flow goals
-- **Pricing:** Custom packages based on scope and scale (e.g. £10k–£15k per quarter)
+- **Pricing:** Custom packages based on scope and scale (e.g. from £36k per quarter)
 
 ## ✅ Let’s Embed the Rhythm
 
-If you're ready to evolve continuously, without reorg fatigue,we’re ready to help.
+If you're ready to evolve continuously, without reorg fatigue, we’re ready to help.
 
 [📅 Book a Strategy Call](/contact)
-
