@@ -34,6 +34,18 @@ steps:
     alt: "Define a flow decision roadmap"
     title: "6. Define a flow decision roadmap"
     excerpt: "Create a clear path forward for your organization."
+  - image_path: /assets/images/faster-flow-practices/reflect.png
+    alt: "Reflect on successes and failures"
+    title: "7. Reflect on successes and failures"
+    excerpt: "Reflect on what's working and what's not."
+  - image_path: /assets/images/faster-flow-practices/align.png
+    alt: "Align on strategy and priorities"
+    title: "8. Align on strategy and priorities"
+    excerpt: "Align on the strategic direction and priorities for the next 90 days."
+  - image_path: /assets/images/faster-flow-practices/amplify.png
+    alt: "Amplify the momentum"
+    title: "9. Amplify the momentum"
+    excerpt: "Amplify momentum and celebrate successes."
 ---
 
 ![First Rotation](/assets/images/engagements/first-rotation.gif){: .align-center width="100%"}
