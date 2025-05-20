@@ -52,7 +52,7 @@ steps:
 
 A focused engagement to align, unblock, and activate your path to faster flow.
 
-A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel™️,from sensing to decision-making to strategic alignment and roadmap creation.
+A Full Rotation of the Flywheel is a high-impact starting point for organizations ready to evolve how they structure teams and services around flow. In this initial engagement, we guide your leaders and teams through the first full rotation of the Fast Flow Flywheel™️, from sensing to decision-making to strategic alignment and roadmap creation.
 
 This is not a one-time fix. It’s the first turn in a repeatable, value-driving rhythm.
 
@@ -64,7 +64,7 @@ Over the course of 3–6 weeks (or adapted to fit your pace), we’ll co-create 
 
 ## Why This First Turn Matters
 
-The first rotation of the flywheel sets the direction, builds trust in the process, and creates visible momentum. It often requires more investment,strategically and financially,than future cycles. But it lays the foundation for:
+The first rotation of the flywheel sets the direction, builds trust in the process, and creates visible momentum. It often requires more investment, strategically and financially, than future cycles. But it lays the foundation for:
 
 - Faster, safer decisions in future rotations
 - Cross-team alignment and shared language
