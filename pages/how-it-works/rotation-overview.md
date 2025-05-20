@@ -44,6 +44,7 @@ This isn’t a one-time loop, it’s a living cycle of discovery, action, and al
 - Documented learning to guide what’s next
 - A taste of what continuous org evolution can feel like
 
+<!--
 ## A Real World Example: Kickstarting Blue Lagoon's Fast Flow Flywheel
 
 ![Blue Lagoon Fast Flow Flywheel](/assets/images/customers/blue-lagoon.png){: .align-center }
@@ -81,6 +82,7 @@ Alongside the engagement, Blue Lagoon's C-Level executive team were exploring th
 - **Amplify:** Which practices, platforms, or plays should they double down on?
 
 By revisiting the flywheel together, they’ll seek to help Blue Lagoon evolve with intent, scaling what works, sensing what’s shifting, and aligning teams around what matters most.
+-->
 
 ## Who it's for
 
