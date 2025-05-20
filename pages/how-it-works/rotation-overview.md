@@ -71,7 +71,7 @@ The Sense phase gave Lumana a shared language for friction, and revealed the str
 
 ## 🔄 Act: Taking Evolutionary Steps
 
-With the flow frictionsignals clear and priorities surfaced, the next phase focused on practical steps to improve flow.
+With the flow friction signals clear and priorities surfaced, the next phase focused on practical steps to improve flow.
 
 Instead of a top-down reorg, Lumana’s teams participated in collaborative co-design sessions to explore better team boundaries and interaction modes.
 
