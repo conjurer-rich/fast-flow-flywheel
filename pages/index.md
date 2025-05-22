@@ -69,7 +69,7 @@ Behind the scenes, the Flywheel uses two connected cycles:
 But you don’t need to learn new jargon to get started.  
 You just need to start spotting signals, and acting on them.
 
-[Learn how it works →](/how-it-works/rotation-overview)
+[Learn how it works →](/overview)
 
 ## Who It’s For
 
@@ -88,4 +88,4 @@ The Flywheel helps you start small, and scale what works.
 
 - 📥 [Download the Starter Kit →](/toolkit/starter-kit)  
 - 📞 [Book a Discovery Call →](/contact)  
-- 🧭 [See What the Flywheel Looks Like in Action →](/overview)
+- 🧭 [See What the Flywheel Looks Like in Action →](/how-it-works/rotation-overview)
