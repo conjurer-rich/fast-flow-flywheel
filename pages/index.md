@@ -86,6 +86,6 @@ It’s especially useful for:
 You don’t have to change everything to change direction.  
 The Flywheel helps you start small, and scale what works.
 
-- 📥 [Download the Starter Kit →](/starter-kit)  
+- 📥 [Download the Starter Kit →](/toolkit/starter-kit)  
 - 📞 [Book a Discovery Call →](/contact)  
 - 🧭 [See What the Flywheel Looks Like in Action →](/overview)
