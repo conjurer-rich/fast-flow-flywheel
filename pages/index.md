@@ -4,8 +4,8 @@ layout: splash
 title: "From Friction to Flow, One Step at a Time"
 description: Connect strategic intent with adaptive execution using the Fast Flow Flywheel, a two-loop system that bridges strategy and structure for faster flow of value.
 excerpt: > 
-  The Fast Flow Flywheel gives you a simple, repeatable way to adapt how your teams work  
-  , without waiting for the next reorg.
+  The Fast Flow Flywheel gives you a simple, repeatable way to adapt how your teams work
+  —without waiting for the next reorg.
   
 header:
   overlay_color: "#1D2731"
