@@ -1,5 +1,5 @@
 ---
-permalink: /toolkit/toolkit-starter-kit
+permalink: /toolkit/starter-kit
 title: "The Fast Flow Starter Kit"
 layout: single
 author_profile: false
@@ -7,8 +7,6 @@ classes: wide
 sidebar:
   nav: "side-navigation"
 ---
-
-## Fast Flow Starter Kit
 
 Your on-ramp to building momentum.
 

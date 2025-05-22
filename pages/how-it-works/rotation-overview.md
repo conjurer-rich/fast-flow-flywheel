@@ -1,5 +1,5 @@
 ---
-title: "What’s in a SARAA Loop Rotation?"
+title: "How the Fast Flow Flywheel Works"
 permalink: /how-it-works/rotation-overview
 layout: single
 author_profile: false
@@ -8,175 +8,120 @@ sidebar:
   nav: side-navigation
 ---
 
-![Flywheel Rotation](/assets/images/fast-flow-flywheel-white-bg-v3.png){: .align-center width="400px"}
+![Fast Flow Flywheel in action](/assets/images/flywheel-in-action-bluebg.gif){: .align-center width="100%"}
 
-A SARAA Loop Rotation is a short, focused cycle that helps your organization move from stuck to flowing.
+## One Rotation. Real Progress.
 
-It helps you spot where value is getting delayed or teams are misaligned, then guide you through a lightweight process to uncover the root cause, take action, and learn what works.
+A **Flywheel Rotation** is a short, focused cycle that helps you move from stuck to flowing, without disruption or drama.
 
-It’s not a reorg. It’s not a workshop. It’s a structured way to build momentum, fast.
+Instead of launching a reorg or long transformation program, you take a structured, low-risk step:
 
-## Why it matters
+- Spot where things are slowing down  
+- Try a safe, targeted improvement  
+- Reflect on what worked  
+- Align around what matters  
+- Scale what helps  
 
-Many organizations feel the symptoms:
+This is where strategy becomes structure, one smart move at a time.
 
-- Delivery slows down
-- Teams step on each other’s toes
-- Priorities shift constantly
+## The Inner Loop: Five Steps to Unlock Flow
 
-> Reorgs don’t solve the real issues
+We use a five-step rhythm called the **SARAA Loop**.
 
-A SARAA Loop Rotation helps you step back, see what’s really going on, and make a focused, safe-to-try decision that improves flow. Each rotation builds learning and confidence, without disruption.
+Each rotation helps you turn friction into forward motion.
 
-## How it works
+### 🔍 Sense
 
-The SARAA Loop rotates through five connected elements that help organizations sense tensions, respond with intention, and continuously evolve team structures to unlock flow.
+Surface signals from the teams closest to the work:  
 
-This isn’t a one-time loop, it’s a living cycle of discovery, action, and alignment.
+- What’s slowing us down?  
+- Where are we overloaded?  
+- Are handoffs unclear?  
+- Who owns what?
 
-![Fast Flow Flywheel](/assets/images/stages/inner-flywheel-stage-details.png){: .align-center }
+We use tools like **User Needs Mapping** and **Team Interaction Modelling** to make friction visible.
 
-## What you get from one rotation
+### ⚙️ Act
 
-- Clarity on what’s slowing down flow
-- A shared understanding of the constraint
-- A safe, strategic action to address it
-- Documented learning to guide what’s next
-- A taste of what continuous org evolution can feel like
+Co-design and test small changes to team structure, boundaries, or responsibilities.  
+You don’t need a big plan, just a safe, well-informed next step.
 
-## 🧪 A (Close to) Real-World Example: Flow in Motion at Lumana
+Techniques include:
 
-Between Q4 2024 and Q1 2025, two Fast Flow Flywheel facilitators, both experienced in organizational design and flow-centric transformation, partnered with Lumana, a fast-scaling European lifestyle brand operating across wellness, hospitality, and digital services (for the purposes of this example, Lumana is an organization based upon a real-world company - we'll replace this when we are able to obtain confirmation that we can use the original company as a public case study).
+- Exploring feasible futures with **User Needs Mapping** and **Fracture Planes**
+- Validating independent service candidates with **Independent Service Heuristics**
+- Choosing appropriate Plays and Tactics to achieve desired outcomes
+- Capturing **flow decisions** and building a **flow roadmap**
+- Running **safe-to-fail experiments**
 
-Lumana had grown quickly, but their internal structure hadn’t kept pace. Despite talented teams and high demand, delivery was lagging. Leaders were sensing friction but struggling to locate its source, and teams were operating in silos that no longer matched how value needed to flow.
+### 🔁 Reflect
 
-Although the engagement wasn’t formally branded as a Flywheel engagement at the time, it followed the full Sense → Act → Reflect → Align → Amplify cycle, and offers a strong illustration of the Flywheel in practice.
+Pause. Learn. Adjust.
 
-## 🧭 Sense: Making Friction Visible
+After a few weeks, revisit the changes.  
+Ask:
 
-The first step was to surface the things that were slowing flow across Lumana’s digital and physical experience teams. Over a 3-day immersive workshop and a series of follow-on sessions, facilitators worked with product owners, service leads, and engineering managers to:
+- What improved?
+- What didn’t?
+- What new friction are we seeing?
 
-- Map real user needs using User Needs Mapping
-- Visualize dependencies and tensions using Team Interaction Modelling
-- Gather firsthand signals of cognitive load, handoff delays, and unclear ownership
+This step builds confidence and shared learning.
 
-Patterns began to emerge:
+### 🎯 Align
 
-- Repeated friction during cross-team initiatives
-- Overloaded domain experts spread too thin
-- Teams duplicating efforts without realizing it
-- A fragmented understanding of customer journeys
+Connect what you’ve learned to strategic goals.
 
-The Sense phase gave Lumana a shared language for friction, and revealed the structural causes behind everyday slowdowns.
+Zoom out and ask:
 
-## 🔄 Act: Taking Evolutionary Steps
+- Are we closer to what matters?
+- Do teams understand the bigger picture?
+- Where should we focus next?
 
-With the flow friction signals clear and priorities surfaced, the next phase focused on practical steps to improve flow.
+This keeps structure in sync with strategy, not just reactive fixes.
 
-Instead of a top-down reorg, Lumana’s teams participated in collaborative co-design sessions to explore better team boundaries and interaction modes.
+### 📈 Amplify
 
-Key activities included:
+Scale what’s working.  
+Support more teams.  
+Make the decisions visible.
 
-- Identifying Fracture Planes based on cognitive load and capability focus
-- Using Team Interaction Modelling to explore multiple “future state” options
-- Validating those options with Independent Service Heuristics
-- Defining Team APIs and clarifying responsibilities between newly formed teams
+Craft internal playbooks that capture what works, and how to apply it.
 
-By the end of this phase, Lumana had agreed on a set of Flow Decisions that realigned teams around capabilities with clearer ownership and fewer dependencies. The shift didn’t require a full restructure, just targeted, well-reasoned changes that teams co-created and committed to.
+You now have the ingredients of a living roadmap, one that evolves with your teams.
 
-## 🔁 Reflect: Pausing to Learn
+## Real-World Example: Lumana
 
-Six weeks after the changes were applied, the facilitation team returned for a Flow Clinic and reflection session.
+Lumana, a fast-scaling lifestyle brand, used the Flywheel to:
 
-Together, they asked:
+- Identify overloaded teams and unclear handoffs  
+- Redesign team responsibilities using Fracture Planes  
+- Run small experiments to clarify ownership and reduce delays  
+- Align their new structure to a strategic push toward digital experiences  
+- Scale the practices that worked across other parts of the org
 
-- Were the decisions we made actually reducing friction?
-- What new signals are emerging?
-- Are teams experiencing fewer blockers and smoother handoffs?
+The result?  
+Faster delivery, clearer ownership, and a growing internal capability to adapt.
 
-The reflection surfaced both positive impacts, faster prioritization and less thrashing between teams, and new frictions around shared platform components that hadn’t been fully addressed.
+*[See more details →](/case-studies/lumana)*
 
-This led to a mini-retrospective across several teams, updating the Flow Roadmap with new insights and decisions.
+## What You’ll Get from One Rotation
 
-## 🎯 Align: Connecting to Strategic Intent
+- ✅ Clarity on what’s slowing you down  
+- ✅ A shared understanding of your constraints  
+- ✅ A safe action to test a structural improvement  
+- ✅ Clear learning and alignment  
+- ✅ A starting point for an evolving roadmap
 
-As Lumana’s leadership team reviewed its strategic bets for 2025, particularly a push toward premium digital experiences, they recognized the need to align structure to strategy.
+## Who Should Run a Rotation?
 
-A joint Flow Objectives + Strategic Priorities session was run with execs, helping to:
+- **Product and platform leaders** sensing delivery friction  
+- **Org designers and coaches** supporting structural evolution  
+- **Change agents** looking for momentum, not mayhem
 
-- Clarify which customer outcomes were most critical in the next 6–12 months
-- Map which teams were closest to those outcomes
-- Identify where investment, autonomy, or realignment might unlock flow
+Whether you’re starting fresh or already mid-transformation, a rotation helps you take a confident next step.
 
-This phase ensured that structural evolution wasn’t just tactical, it was clearly tied to strategic intent.
+## Ready to Get Started?
 
-## 📈 Amplify: Doubling Down on What Works
-
-Finally, the Amplify phase focused on extending what had proven effective:
-
-- A newly piloted Enabling Team was scaled to support shared platform needs
-- Internal facilitators were trained to run lightweight Flow Clinics independently
-- Flow Decisions were made more visible through a living Now / Next / Later Flow Roadmap
-- Teams began capturing their own Flow Signals as part of regular retrospectives
-
-With the flywheel now turning, Lumana is evolving with greater clarity and confidence. What began as a friction-sensing engagement has become an ongoing capability—building toward a culture of structural learning and responsive delivery.
-
-<!--
-## A Real World Example: Kickstarting Blue Lagoon's Fast Flow Flywheel
-
-![Blue Lagoon Fast Flow Flywheel](/assets/images/customers/blue-lagoon.png){: .align-center }
-
-Between October 2024 and January 2025, as part of an engagement with the core team at [Team Topologies](https://teamtopologies.com/), [Rich Allen](https://www.linkedin.com/in/richardallen/) and colleague [Erica Engelen](https://www.linkedin.com/in/ericaengelen/) (both [Team Topologies Valued Practitioners](https://teamtopologies.com/ttvp)), worked with Blue Lagoon, a fast-growing Icelandic wellness brand, to lay the foundations for a more adaptive, flow-oriented organization. Although the initial engagement was not framed as a Fast Flow Flywheel engagement, the approach they took captures the essence of the Sense and Act phases.
-
-🧭 Sense: Making Friction Visible
-
-The engagement began by helping Blue Lagoon sense what was slowing their flow of value. Through an intensive 3-day on-site workshop and a series of Enable & Elevate sessions, we surfaced:
-
-- Repeated coordination pain between teams  
-- Unclear ownership boundaries
-- Cognitive overload in critical roles
-- Fragmented understanding of user needs
-
-They introduced Team Topologies core principles and used techniques like [User Needs Mapping](https://www.teamtopologies.com/unm) and [Team Interaction Modelling](https://www.teamtopologies.com/tim) to give leaders and teams a clearer picture of how work was really flowing, and where it wasn’t.
-
-⚙️ Act: Taking Structural Steps
-
-Once key signals were visible, they supported Blue Lagoon in acting on them. Teams co-designed and validated new boundaries using:
-
-- Fracture Planes to brainstorm and explore potential ownership boundaries
-- Team Interaction Modelling to explore feasible futures
-- [Independent Service Heuristics](https://teamtopologies.com/ish) to assess viability of team structure options
-- Lightweight evolution tactics like defining Team APIs to reduce overload and clarify responsibilities
-
-This resulted in a set of Flow Decisions to define target team structures that better aligned with value delivery and were achievable without needing a full re-org. They left Blue Lagoon having built shared language and momentum for change.
-
-🔄 What’s Next: Reflect, Align, Amplify
-
-Alongside the engagement, Blue Lagoon's C-Level executive team were exploring their strategic intent and direction for the coming year (essentially the outer OODA Loop of the Fast Flow Flywheel). Later this year, they hope to return to support the next phases:
-
-- **Reflect:** Did the changes have the intended effect? What new signals are emerging?
-- **Align:** How do they connect structural evolution to evolving strategy?
-- **Amplify:** Which practices, platforms, or plays should they double down on?
-
-By revisiting the flywheel together, they’ll seek to help Blue Lagoon evolve with intent, scaling what works, sensing what’s shifting, and aligning teams around what matters most.
--->
-
-## Who it's for
-
-SARAA Loop Rotations are designed for:
-
-- Product and engineering leaders unsure what to fix next
-- Teams who feel stuck, overloaded, or unclear on priorities
-- Change agents looking for more momentum and less resistance
-
-Whether you're just starting or already in motion, a rotation helps you build the habit of evolving, not just reacting.
-
-## Looking to find out more?
-
-Take a look at a first step in an SARAA Loop Rotation: [Sense](/how-it-works/1-sense).
-
-## Ready to get your flywheel turning?
-
-Let’s start with a quick chat to see where you are and whether a rotation makes sense.
-
-[Book a Call](/contact)
+- 📞 [Book a Discovery Call →](/contact)  
+- 📥 [Download the Quick-Start Guide →](/toolkit/starter-kit)  
+- 🔄 [Start with Step 1: Sense →](/how-it-works/1-sense)
